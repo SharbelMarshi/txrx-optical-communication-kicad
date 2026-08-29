@@ -1,1 +1,1 @@
-# txrx-optical-communication-kicad
+# A TX/RX optical communication PCB units
