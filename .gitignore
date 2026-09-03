@@ -2,3 +2,8 @@
 .env
 *.log
 .cache/
+.history/
+**/.history/
+~*.lck
+**/~*.lck
+*.bak
