@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "fsoc_footprints") (type "KiCad") (uri "${KIPRJMOD}/../shared_library/fsoc_footprints.pretty") (options "") (descr ""))
+)
