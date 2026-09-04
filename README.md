@@ -74,7 +74,7 @@ FSOC_KiCad/
 ## Library:
 ### Pre-built Components Compatibility Verfication:
 
-Verificate Symbol and Footprint compatibility: 
+Verificated: Symbol and Footprint compatibility: 
 
 1. RP2354A  ✓
 2. AP2112K-3.3  ✓
@@ -88,7 +88,7 @@ Verificate Symbol and Footprint compatibility:
 
 1. ASTX-H11  ✓
 2. OPA320  ✓
-3. TLV3201
+3. TLV3201 ✓
 4. SN74AHCT1G125
 
 ## System Uses:
