@@ -23,14 +23,14 @@
     }
 ]
 \node[block] (hosttx) {Host System};
-\node[block, below=of hosttx] (txmcu) {RP2354A\\Packet + PIO};
-\node[block, below=of txmcu] (txbuf) {74AHCT1G125\\Buffer};
-\node[block, below=of txbuf] (laser) {650 nm\\Laser Module};
+\node[block, below=of hosttx] (txmcu) {RP2354A Packet + PIO};
+\node[block, below=of txmcu] (txbuf) {74AHCT1G125 Buffer};
+\node[block, below=of txbuf] (laser) {650 nm Laser Module};
 \node[block, right=75mm of hosttx] (hostrx) {Destination Host};
-\node[block, below=of hostrx] (rxmcu) {RP2354A\\Decode + CRC};
-\node[block, below=of rxmcu] (comp) {TLV3201\\Comparator};
-\node[block, below=of comp] (tia) {OPA320\\TIA};
-\node[block, below=of tia] (pd) {BPW34\\Photodiode};
+\node[block, below=of hostrx] (rxmcu) {RP2354A Decode + CRC};
+\node[block, below=of rxmcu] (comp) {TLV3201 Comparator};
+\node[block, below=of comp] (tia) {OPA320 TIA};
+\node[block, below=of tia] (pd) {BPW34 Photodiode};
 \draw[arrow] (hosttx) -- node[right] {data} (txmcu);
 \draw[arrow] (txmcu) -- node[right] {100 kbit/s RZ-OOK} (txbuf);
 \draw[arrow] (txbuf) -- (laser);
