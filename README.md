@@ -71,6 +71,7 @@ FSOC_KiCad/
     ├── OPA320
     ├── TLV3201
     ├── BPW34
+    ├── TPS7A20
 ```
 
 ## Library:
