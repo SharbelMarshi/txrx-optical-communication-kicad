@@ -90,7 +90,8 @@ Verificated: Symbol and Footprint compatibility:
 1. ASTX-H11  ✓
 2. OPA320  ✓
 3. TLV3201 ✓
-4. SN74AHCT1G125
+4. BPW34 (customed footprint only)  ✓
+5. SN74AHCT1G125
 
 ## System Uses:
 
