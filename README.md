@@ -4,11 +4,15 @@ This project implements a free-space optical communication link using two separa
 
 **System General Schematics:**
 
+<div align="center">
 <img src="tikz-diagrams/general-schematics.svg" alt="general" width="500" />
-
+</div>
+    
 **Data transmission and packet structure:**
 
+<div align="center">
 <img src="tikz-diagrams/tx-data-transmitting.svg" alt="general" width="500" />
+</div>
 
 ## Architecture
 
