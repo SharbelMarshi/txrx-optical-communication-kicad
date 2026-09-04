@@ -1,6 +1,6 @@
 # A Free Space Optical Communication
 
-This project implements a free-space optical communication link using two separate KiCad-designed boards: a transmitter and a receiver. The transmitter uses an RP2354A microcontroller to frame arbitrary digital payloads into packets and generate 100 kbit/s RZ-OOK modulation for a 650 nm laser module through a level-shifting buffer and independent hardware safety chain. The receiver uses a BPW34 photodiode, OPA320 transimpedance amplifier, and TLV3201 comparator to recover the optical pulses and feed them back into an RP2354A for decoding, CRC verification, and delivery to the host system. Both boards include USB, UART, SWD, a 12 MHz crystal, and a 10 MHz TCXO reference, with the initial target being a stable optical link over approximately 5 meters.
+This project implements a free-space optical communication link using two separate KiCad-designed boards: a transmitter and a receiver. The transmitter uses an RP2354A microcontroller to frame arbitrary digital payloads into packets and generate $100 \mathrm{kbit/s}$ RZ-OOK modulation for a $650 \mathrm{nm}$ laser module through a level-shifting buffer and independent hardware safety chain. The receiver uses a BPW34 photodiode, OPA320 transimpedance amplifier, and TLV3201 comparator to recover the optical pulses and feed them back into an RP2354A for decoding, CRC verification, and delivery to the host system. Both boards include USB, UART, SWD, a $12 \mathrm{MHz}$ crystal, and a $10 \mathrm{MHz}$ TCXO reference, with the initial target being a stable optical link over approximately $5$ meters.
 
 **System General Schematics:**
 
@@ -16,9 +16,9 @@ This project implements a free-space optical communication link using two separa
 
 ## Architecture
 
-Two separate 4-layer boards:
-- TX: RP2354A + USB-C + host I/O + 12 MHz crystal + 10 MHz TCXO + laser module.
-- RX: RP2354A + USB-C + host I/O + 12 MHz crystal + 10 MHz TCXO + BPW34/OPA320/TLV3201 optical receiver + ADC monitor.
+Two separate $4$-layer boards:
+- TX: RP2354A + USB-C + host I/O + $12 \mathrm{MHz}$ crystal + $10 \mathrm{MHz}$ TCXO + laser module.
+- RX: RP2354A + USB-C + host I/O + $12 \mathrm{MHz}$ crystal + $10 \mathrm{MHz}$ TCXO + BPW34/OPA320/TLV3201 optical receiver + ADC monitor.
 
 ### TX
 - TX_ROOT
