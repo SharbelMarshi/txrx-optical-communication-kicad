@@ -47,7 +47,7 @@ FSOC_KiCad/
     └── fp-lib-table
 ```
 
-3.  FSOC_RX
+2.  FSOC_RX
 
 ```text
     ├── FSOC_RX.kicad_pro
@@ -57,19 +57,21 @@ FSOC_KiCad/
     └── fp-lib-table
 ```
 
-5.  Shared_Library
+3.  Shared_Library
 
   ``` text
     ├── FSOC_Symbols.kicad_sym
     └── FSOC_Footprints.pretty/
 ```
 
-7. Soruces (official documentations for costumed components)
+4. Soruces (official documentations for costumed components)
 
 ```text
     ├── ASTX_H11
+    ├── OPA320
 ```
 
+## Library:
 ### Pre-built Components Compatibility Verfication:
 
 Verificate Symbol and Footprint compatibility: 
@@ -79,11 +81,15 @@ Verificate Symbol and Footprint compatibility:
 3. SN74AHCT1G125DBVR  ✓
 4. TPS22919DCKR  ✓
 5. USBLC6-2SC6  ✓
+6. BPW34
+7. REF2033
 
-### Costumed Components (in library):
+### Costumed Components:
 
 1. ASTX-H11  ✓
 2. OPA320
+3. TLV3201
+4. SN74AHCT1G125
 
 ## System Uses:
 
