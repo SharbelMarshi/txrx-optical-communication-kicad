@@ -3,11 +3,12 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
-	(descr "SMD3225/4, Crystal, 3.2x2.5mm package, SMD, http://www.txccrystal.com/images/pdf/7m-accuracy.pdf")
+	(descr "Abracon ABM8 3.2 x 2.5 mm 4-pad SMD crystal footprint")
+	(tags "ABM8 Abracon crystal 3225 3.2x2.5")
 	(property "Reference" "REF**"
 		(at 0 -2.45 0)
 		(layer "F.SilkS")
-		(uuid "9690237f-e1c4-4f1d-9122-f7318554c886")
+		(uuid "e3b2baeb-6696-462a-87b1-bd69d46ae2f8")
 		(effects
 			(font
 				(size 1 1)
@@ -18,7 +19,7 @@
 	(property "Value" "ABM8-272-T3_3225"
 		(at 0 2.45 0)
 		(layer "F.Fab")
-		(uuid "c93bc0bd-33a4-4980-84d5-641d64919008")
+		(uuid "28ea7776-f794-49f4-a70c-ae4e6fd4df28")
 		(effects
 			(font
 				(size 1 1)
@@ -26,22 +27,22 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://abracon.com/datasheets/ABM8-272-T3.pdf"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "29f9824c-636a-4db7-873e-4ec7631a195a")
+		(uuid "9b205611-de19-49a8-8a85-f5f755c728fe")
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Abracon ABM8 3.2 x 2.5 mm 4-pad SMD crystal footprint"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "405d3733-b7eb-41f3-b2b9-b26dbeb48e8b")
+		(uuid "2b1806fb-33a8-468f-812e-f9a92573a39a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -124,22 +125,22 @@
 		(uuid "02b08f24-e098-4326-b351-b7c4fcec91d1")
 	)
 	(pad "2" smd roundrect
-		(at 1.1 0.85)
-		(size 1.4 1.2)
+		(at 1.175 0.85)
+		(size 1.3 0.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.208333)
 		(uuid "484edc4b-ade6-4693-b77d-e1f61f04eac1")
 	)
 	(pad "3" smd roundrect
-		(at 1.1 -0.85)
-		(size 1.4 1.2)
+		(at 1.175 -0.85)
+		(size 1.3 0.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.208333)
 		(uuid "94d7851c-a954-4be2-82e2-ac579b24f293")
 	)
 	(pad "4" smd roundrect
-		(at -1.1 -0.85)
-		(size 1.4 1.2)
+		(at -1.175 -0.85)
+		(size 1.3 0.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.208333)
 		(uuid "d695bb9e-c6d9-4cdb-b4b1-446188791df8")

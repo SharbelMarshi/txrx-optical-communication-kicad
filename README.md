@@ -72,7 +72,7 @@ FSOC_KiCad/
     ├── TLV3201
     ├── BPW34
     ├── TPS7A20
-    ├── ABM8
+    ├── ABM8-272-T3
 ```
 
 ## Library:
