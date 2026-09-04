@@ -87,7 +87,7 @@ Verificate Symbol and Footprint compatibility:
 ### Costumed Components:
 
 1. ASTX-H11  ✓
-2. OPA320
+2. OPA320  ✓
 3. TLV3201
 4. SN74AHCT1G125
 
