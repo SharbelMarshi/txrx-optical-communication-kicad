@@ -70,6 +70,7 @@ FSOC_KiCad/
     ├── ASTX_H11
     ├── OPA320
     ├── TLV3201
+    ├── BPW34
 ```
 
 ## Library:
@@ -82,7 +83,7 @@ Verificated: Symbol and Footprint compatibility:
 3. SN74AHCT1G125DBVR  ✓
 4. TPS22919DCKR  ✓
 5. USBLC6-2SC6  ✓
-6. BPW34
+6. BPW34  (symbol only) ✓
 7. REF2033
 
 ### Costumed Components:
