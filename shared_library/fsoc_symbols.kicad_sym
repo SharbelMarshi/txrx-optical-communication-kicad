@@ -19,7 +19,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "ASTX-H11-10.000MHz-T"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51,7 +51,18 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10 MHz HCMOS TCXO, 3.3 V nominal, 3.2 x 2.5 x 1.0 mm, 4-SMD"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "TCXO 10MHz HCMOS Abracon ASTX-H11"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -19,3 +19,25 @@ Two separate 4-layer boards:
 - RX_HOST_IO
 - RX_OPTICAL_AFE
 - RX_MONITOR
+
+### Pre-built Components Verfication:
+
+1. RP2354A
+   ✓ Symbol
+   ✓ Footprint
+
+2. AP2112K-3.3
+   ✓ Symbol
+   ✓ Footprint
+
+3. SN74AHCT1G125DBVR
+   ✓ Symbol
+   ✓ Footprint
+
+4. TPS22919DCKR
+   ✓ symbol
+   ✓ footprint
+
+### Costumed Components (in library):
+
+1. ASTX-H11
