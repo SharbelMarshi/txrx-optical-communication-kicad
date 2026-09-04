@@ -26,27 +26,38 @@ Two separate 4-layer boards:
 
 FSOC_KiCad/
 1.  FSOC_TX
+```text
     ├── FSOC_TX.kicad_pro
     ├── FSOC_TX.kicad_sch
     ├── FSOC_TX.kicad_pcb
     ├── sym-lib-table
     └── fp-lib-table
-2.  FSOC_RX
+```
+
+3.  FSOC_RX
+
+```text
     ├── FSOC_RX.kicad_pro
     ├── FSOC_RX.kicad_sch
     ├── FSOC_RX.kicad_pcb
     ├── sym-lib-table
     └── fp-lib-table
+```
 
-3.  Shared_Library
+5.  Shared_Library
+
+  ``` text
     ├── FSOC_Symbols.kicad_sym
     └── FSOC_Footprints.pretty/
+```
 
-4. Soruces (official documentations for costumed components)
+7. Soruces (official documentations for costumed components)
+
+```text
     ├── ASTX_H11
-    
+```
 
-### Pre-built Components Verfication:
+### Pre-built Components Compatibility Verfication:
 
 Verificate Symbol and Footprint compatibility: 
 
@@ -58,4 +69,4 @@ Verificate Symbol and Footprint compatibility:
 
 ### Costumed Components (in library):
 
-1. ASTX-H11 
+1. ASTX-H11  ✓
