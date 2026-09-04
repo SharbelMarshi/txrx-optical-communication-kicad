@@ -40,4 +40,4 @@ Two separate 4-layer boards:
 
 ### Costumed Components (in library):
 
-1. ASTX-H11
+1. ASTX-H11 
