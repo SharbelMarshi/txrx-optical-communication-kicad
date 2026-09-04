@@ -6,6 +6,10 @@ This project implements a free-space optical communication link using two separa
 
 <img src="tikz-diagrams/general-schematics.svg" alt="general" width="500" />
 
+**Data transmission and packet structure:**
+
+<img src="tikz-diagrams/tx-data-transmitting.svg" alt="general" width="500" />
+
 ## Architecture
 
 Two separate 4-layer boards:
