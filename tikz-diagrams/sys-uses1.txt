@@ -1,0 +1,72 @@
+\begin{tikzpicture}
+\draw[very thick, rounded corners=2pt]
+    (-0.8,4.5) rectangle (0.8,5.8);
+\node[font=\small\bfseries]
+    at (0,5.15)
+{SAT};
+\draw[very thick]
+    (-3.8,4.75) rectangle (-1.0,5.55);
+\draw[very thick]
+    (-1.0,5.15) -- (-0.8,5.15);
+\draw[thin]
+    (-3.8,5.15) -- (-1.0,5.15);
+\draw[very thick]
+    (1.0,4.75) rectangle (3.8,5.55);
+\draw[very thick]
+    (0.8,5.15) -- (1.0,5.15);
+\draw[thin]
+    (1.0,5.15) -- (3.8,5.15);
+\draw[very thick]
+    (0,5.8) -- (0,6.15);
+\draw[very thick]
+    (-0.55,6.4)
+    .. controls (0,5.95) ..
+    (0.55,6.4);
+\draw[thick]
+    (0,6.15) -- (0,6.55);
+\draw[very thick, rounded corners=1pt]
+    (0.15,4.1) rectangle (0.75,4.5);
+\draw[very thick]
+    (0.75,4.15) -- (1.05,4.05)
+    -- (0.75,4.4);
+\node[
+    font=\scriptsize,
+    right=2mm
+] at (1.0,4.35)
+{Laser TX};
+\coordinate (laser) at (1.05,4.05);
+\coordinate (receiver) at (6.6,1.35);
+\node[
+    font=\small\bfseries,
+    rotate=-26
+] at (3.8,3.0)
+{Laser Data Link};
+\draw[
+    very thick
+]
+(5.9,0.9)
+.. controls (6.6,0.45) ..
+(7.25,0.9);
+\draw[
+    very thick
+]
+(6.6,0.7) -- (6.6,1.35);
+\fill
+    (6.6,1.35) circle (2pt);
+\draw[
+    very thick
+]
+(6.6,0.7) -- (6.6,0.25);
+\draw[
+    very thick
+]
+(6.25,0.25) -- (6.95,0.25);
+\node[
+    font=\small\bfseries,
+    align=center
+] at (6.6,-0.05)
+{Optical Ground Receiver};
+\draw[-{Latex}, fill=red, red, thick] (1.05, 4.05) -- (6.39, 1.43);
+\draw[step=0.5cm] (-3.80, 5.57) grid (-0.99, 4.74);
+\draw[step=0.5cm] (1.00, 5.50) grid (3.78, 4.75);
+\end{tikzpicture}
