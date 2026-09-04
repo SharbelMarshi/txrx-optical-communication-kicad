@@ -72,6 +72,7 @@ FSOC_KiCad/
     ├── TLV3201
     ├── BPW34
     ├── TPS7A20
+    ├── ABM8
 ```
 
 ## Library:
@@ -93,7 +94,8 @@ Verificated: Symbol and Footprint compatibility:
 3. TLV3201 ✓
 4. BPW34 (customed footprint only)  ✓
 5. TPS7A2033  (customed symbol only) ✓
-6. SN74AHCT1G125
+6. ABM8-272-T3_3225 (customed footprint only)  ✓
+7. SN74AHCT1G125
 
 ## System Uses:
 
