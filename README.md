@@ -23,10 +23,13 @@ Two separate 4-layer boards:
 ## Shared Library:
 ### Pre-built Components Verfication:
 
-1. RP2354A  ✓ Symbol   ✓ Footprint
-2. AP2112K-3.3  ✓ Symbol ✓ Footprint
-3. SN74AHCT1G125DBVR  ✓ Symbol ✓ Footprint
-4. TPS22919DCKR ✓ symbol ✓ footprint
+Verificate Symbol and Footprint compatibility: 
+
+1. RP2354A  ✓
+2. AP2112K-3.3  ✓
+3. SN74AHCT1G125DBVR  ✓
+4. TPS22919DCKR  ✓
+5. USBLC6-2SC6  ✓
 
 ### Costumed Components (in library):
 
