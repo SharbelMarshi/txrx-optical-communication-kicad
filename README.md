@@ -4,7 +4,8 @@ This project implements a free-space optical communication link using two separa
 
 **System General Schematics:**
 
-![general|300](/Users/sharbelmarshi/devprojects/fsoc-kicad/tikz-diagrams/general-schematics.svg)
+<img src="tikz-diagrams/general-schematics.svg" alt="general" width="500" />
+
 ## Architecture
 
 Two separate 4-layer boards:
