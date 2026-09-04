@@ -60,7 +60,7 @@ FSOC_KiCad/
 3.  Shared_Library
 
   ``` text
-    ├── FSOC_Symbols.kicad_sym
+	├── FSOC_Symbols.kicad_sym
     └── FSOC_Footprints.pretty/
 ```
 
@@ -69,6 +69,7 @@ FSOC_KiCad/
 ```text
     ├── ASTX_H11
     ├── OPA320
+    ├── TLV3201
 ```
 
 ## Library:
