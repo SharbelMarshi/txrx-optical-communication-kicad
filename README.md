@@ -61,7 +61,7 @@ FSOC_KiCad/
 
   ``` text
 	├── FSOC_Symbols.kicad_sym
-    └── FSOC_Footprints.pretty/
+	└── FSOC_Footprints.pretty/
 ```
 
 4. Soruces (official documentations for costumed components)
