@@ -83,6 +83,7 @@ Verificate Symbol and Footprint compatibility:
 ### Costumed Components (in library):
 
 1. ASTX-H11  ✓
+2. OPA320
 
 ## System Uses:
 
