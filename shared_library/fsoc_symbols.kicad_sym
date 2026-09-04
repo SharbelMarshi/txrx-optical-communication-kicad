@@ -29,7 +29,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "fsoc_footprints:ASTX-H11_3225"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40,7 +40,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://abracon.com/Oscillators/ASTX-H11.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52,6 +52,28 @@
 			)
 		)
 		(property "Description" "10 MHz HCMOS TCXO, 3.3 V nominal, 3.2 x 2.5 x 1.0 mm, 4-SMD"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Abracon"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ASTX-H11-10.000MHz-T"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
