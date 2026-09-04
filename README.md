@@ -84,7 +84,7 @@ Verificated: Symbol and Footprint compatibility:
 3. SN74AHCT1G125DBVR  ✓
 4. TPS22919DCKR  ✓
 5. USBLC6-2SC6  ✓
-7. REF2033
+7. REF2033  ✓
 
 ### Costumed Components:
 
@@ -92,7 +92,7 @@ Verificated: Symbol and Footprint compatibility:
 2. OPA320  ✓
 3. TLV3201 ✓
 4. BPW34 (customed footprint only)  ✓
-5. TPS7A2033 
+5. TPS7A2033  (customed symbol only) ✓
 6. SN74AHCT1G125
 
 ## System Uses:
