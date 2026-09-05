@@ -95,7 +95,11 @@ Verificated: Symbol and Footprint compatibility:
 4. BPW34 (customed footprint only)  ✓
 5. TPS7A2033  (customed symbol only) ✓
 6. ABM8-272-T3_3225 (customed footprint only)  ✓
-7. SN74AHCT1G125
+7. B3B-PH-K-S ✓
+8. B8B-PH-K-S ✓
+9. ARD-LASER-MDI650-1-5 ✓
+10. FTSH-105-01-L-DV-K  ✓
+11. SN74AHCT1G125
 
 ## System Uses:
 
