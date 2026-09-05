@@ -40,39 +40,44 @@ Two separate $4$-layer boards:
 FSOC_KiCad/
 1.  FSOC_TX
 ```text
-    ├── FSOC_TX.kicad_pro
-    ├── FSOC_TX.kicad_sch
-    ├── FSOC_TX.kicad_pcb
-    ├── sym-lib-table
-    └── fp-lib-table
+├── FSOC_TX.kicad_pro
+├── FSOC_TX.kicad_sch (TX_ROOT)->
+|	├── tx_mcu_clock.kicad_sch
+|	├── tx_power_usb.kicad_sch
+|	├── tx_laser.kicad_sch
+|	└── 
+├── FSOC_TX.kicad_pcb
+├── sym-lib-table
+└── fp-lib-table
 ```
 
 2.  FSOC_RX
 
 ```text
-    ├── FSOC_RX.kicad_pro
-    ├── FSOC_RX.kicad_sch
-    ├── FSOC_RX.kicad_pcb
-    ├── sym-lib-table
-    └── fp-lib-table
+├── FSOC_RX.kicad_pro
+├── FSOC_RX.kicad_sch
+├── FSOC_RX.kicad_pcb
+├── sym-lib-table
+└── fp-lib-table
 ```
 
 3.  Shared_Library
 
   ``` text
-	├── FSOC_Symbols.kicad_sym
-	└── FSOC_Footprints.pretty/
+├── FSOC_Symbols.kicad_sym
+└── FSOC_Footprints.pretty/
 ```
 
 4. Soruces (official documentations for costumed components)
 
 ```text
-    ├── ASTX_H11
-    ├── OPA320
-    ├── TLV3201
-    ├── BPW34
-    ├── TPS7A20
-    ├── ABM8-272-T3
+├── ASTX_H11
+├── OPA320
+├── TLV3201
+├── BPW34
+├── TPS7A20
+├── ABM8-272-T3
+└── ePH
 ```
 
 ## Library:
@@ -99,7 +104,6 @@ Verificated: Symbol and Footprint compatibility:
 8. B8B-PH-K-S ✓
 9. ARD-LASER-MDI650-1-5 ✓
 10. FTSH-105-01-L-DV-K  ✓
-11. SN74AHCT1G125
 
 ## System Uses:
 
