@@ -1,0 +1,251 @@
+(footprint "FTSH-105-01-L-DV-K"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Samtec FTSH 2x5 1.27 mm pitch vertical SMT keyed header, 10 contacts")
+	(tags "Samtec FTSH FTSH-105-01-L-DV-K 2x5 1.27mm SWD JTAG debug connector")
+	(property "Reference" "REF**"
+		(at 0 -4.285 0)
+		(layer "F.SilkS")
+		(uuid "6989188e-5594-4e42-9e83-751cfc8fd944")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "FTSH-105-01-L-DV-K"
+		(at 0 4.285 0)
+		(layer "F.Fab")
+		(uuid "5abd556f-8593-4748-b439-3a186eadd107")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.samtec.com/products/ftsh-105-01-l-dv-k"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77666884-20d8-46bd-af9e-60a57a8a600f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Samtec FTSH 2x5 1.27 mm pitch vertical SMT keyed header, 10 contacts"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb760b7f-1315-4b99-94cf-6d3c93749f7b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "connector/pin_header_socket"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c5ecff06-aa81-46d3-8334-daf504fb8af5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.09 -3.22)
+		(end -1.815 -3.22)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7475074b-f16f-436f-9c48-8422702417a1")
+	)
+	(fp_line
+		(start -1.815 -3.285)
+		(end -1.815 -3.22)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e30bd3a-9432-4a14-ae17-06a02eec0114")
+	)
+	(fp_line
+		(start -1.815 -3.285)
+		(end 1.815 -3.285)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1a0c1ac-52b2-49c1-ad1d-7d5a178d27c0")
+	)
+	(fp_line
+		(start -1.815 3.22)
+		(end -1.815 3.285)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2dff831-414a-49dc-8c29-e102cc2afa87")
+	)
+	(fp_line
+		(start -1.815 3.285)
+		(end 1.815 3.285)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "097f4f88-635c-475b-b82c-55375cca4f0e")
+	)
+	(fp_line
+		(start 1.815 -3.285)
+		(end 1.815 -3.22)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "86cceadd-d6a6-4d0b-a21d-3deab64db89f")
+	)
+	(fp_line
+		(start 1.815 3.22)
+		(end 1.815 3.285)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "168cb575-2467-4023-8c52-bb3d989d6681")
+	)
+	(fp_rect
+		(start -4.29 -3.68)
+		(end 4.29 3.68)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "e608b15a-35ca-467e-b0fc-3cb3b0379a6a")
+	)
+	(fp_line
+		(start 1.705 3.175)
+		(end -1.705 3.175)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a99d67bc-b13b-443e-b4cc-0115c7cd2238")
+	)
+	(fp_rect
+		(start -1.715 -3.175)
+		(end 1.715 3.175)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1ac179bb-9bba-4968-a202-9fdfabb149dc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "5f9768d2-c29f-4877-bd13-74c0e68dc854")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.035 -2.54)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4c6c555f-b53d-4afc-8608-12e135fbad44")
+	)
+	(pad "2" smd rect
+		(at 2.035 -2.54)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8a8827d1-288d-4e7c-b215-20cf6b180b98")
+	)
+	(pad "3" smd rect
+		(at -2.035 -1.27)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "df8438dc-2917-40bb-be13-e34654fe8d6a")
+	)
+	(pad "4" smd rect
+		(at 2.035 -1.27)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "11ec1b47-d7d9-4042-ab38-2e76eac6ec95")
+	)
+	(pad "5" smd rect
+		(at -2.035 0)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a6228b84-ac93-497e-8eb2-a10027030b70")
+	)
+	(pad "6" smd rect
+		(at 2.035 0)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c2fb870b-92ac-463c-8cbf-fdcff887f3e8")
+	)
+	(pad "7" smd rect
+		(at -2.035 1.27)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "283a3954-fda9-4aa8-9456-1fbc11adfde3")
+	)
+	(pad "8" smd rect
+		(at 2.035 1.27)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0975801e-aa6b-4993-93e1-91a41bc11ec3")
+	)
+	(pad "9" smd rect
+		(at -2.035 2.54)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "62226c37-bfac-40f4-b410-c0ace2a1e2b7")
+	)
+	(pad "10" smd rect
+		(at 2.035 2.54)
+		(size 2.79 0.74)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7321b2b2-959d-4f2f-95d8-cf4ea3d4a519")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Vertical_SMD.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
