@@ -661,13 +661,25 @@
         "uuid": "d92cb11a-a3ee-43a3-bd30-881774176ced"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "SW1-2,L1,JP1,R1-7,C1-20,#PWR1-33,J1-3,Y1-2,U1-3",
     "variants": []
   },
   "sheets": [
     [
       "d92cb11a-a3ee-43a3-bd30-881774176ced",
       "fsoc-tx"
+    ],
+    [
+      "c64cd5bc-1e8b-4968-b04d-7485af214636",
+      "TX_POWER_USB"
+    ],
+    [
+      "1d4fb2f8-c912-4583-8b21-2ebadb633d8f",
+      "TX_MCU_CLOCK"
+    ],
+    [
+      "f34fc6f9-8578-4c51-b563-9197629d870c",
+      "TX_LASER"
     ]
   ],
   "text_variables": {},
