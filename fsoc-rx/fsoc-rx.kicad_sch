@@ -51,6 +51,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 139.7 46.99)
+		(size 63.5 74.93)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "eb54e58b-22bf-4adb-9596-7fe9e805fb8b")
+		(property "Sheetname" "RX_MCU_CLOCK"
+			(at 139.7 46.2784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rx_mcu_clock.kicad_sch"
+			(at 139.7 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

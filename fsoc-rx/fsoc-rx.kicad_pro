@@ -429,7 +429,7 @@
         "uuid": "84f983f4-ce6f-4382-bffe-129758307136"
       }
     ],
-    "used_designators": "R1-2,JP1,#PWR1-11,C1-4,#FLG1-2,U1-3,J1-2",
+    "used_designators": "SW1-2,L1,R1-7,JP1,#PWR1-11,C1-22,#FLG1-2,Y1-2,U1-4,J1-3",
     "variants": []
   },
   "sheets": [
@@ -440,6 +440,10 @@
     [
       "e570b0c0-cac5-4a7f-a320-8fd087761133",
       "RX_POWER_USB"
+    ],
+    [
+      "eb54e58b-22bf-4adb-9596-7fe9e805fb8b",
+      "RX_MCU_CLOCK"
     ]
   ],
   "text_variables": {},
