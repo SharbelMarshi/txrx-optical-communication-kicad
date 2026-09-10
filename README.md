@@ -45,7 +45,7 @@ FSOC_KiCad/
 |	├── tx_mcu_clock.kicad_sch
 |	├── tx_power_usb.kicad_sch
 |	├── tx_laser.kicad_sch
-|	└── 
+|	└── tx_host_io.kicad_sch
 ├── FSOC_TX.kicad_pcb
 ├── sym-lib-table
 └── fp-lib-table
