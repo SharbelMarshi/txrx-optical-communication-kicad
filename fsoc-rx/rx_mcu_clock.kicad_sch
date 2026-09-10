@@ -4565,7 +4565,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.8648 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -4650,7 +4650,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 220.98 70.8152 0)
 			(hide yes)
 			(show_name no)
@@ -4851,7 +4851,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "fsoc_footprints:AOTA-B201610S3R3-101-T"
 			(at 173.99 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -4936,7 +4936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 151.4348 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -5189,7 +5189,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 175.5648 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -5528,7 +5528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 223.2152 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5814,7 +5814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 113.9952 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5902,7 +5902,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 113.9952 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6071,7 +6071,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 228.6 58.7248 0)
 			(hide yes)
 			(show_name no)
@@ -6240,7 +6240,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 136.1948 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -6325,7 +6325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 117.1448 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6494,7 +6494,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 186.9948 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6582,7 +6582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.8852 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -6667,7 +6667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 128.5748 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -7207,7 +7207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 106.68 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7544,7 +7544,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 116.84 44.958 90)
 			(hide yes)
 			(show_name no)
@@ -7713,7 +7713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 198.4248 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -7798,7 +7798,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 120.65 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -8051,7 +8051,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 128.27 112.522 90)
 			(hide yes)
 			(show_name no)
@@ -8388,7 +8388,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 140.0048 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -8560,7 +8560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 115.2652 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8645,7 +8645,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 228.6 48.5648 0)
 			(hide yes)
 			(show_name no)
@@ -8730,7 +8730,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 124.46 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -9034,7 +9034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 124.46 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -9122,7 +9122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 191.4652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9376,7 +9376,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 104.14 60.96 0)
 			(hide yes)
 			(show_name no)
