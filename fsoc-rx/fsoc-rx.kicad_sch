@@ -2,9 +2,55 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 84f983f4-ce6f-4382-bffe-129758307136)
+	(uuid "84f983f4-ce6f-4382-bffe-129758307136")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 44.45 35.56)
+		(size 54.61 88.9)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e570b0c0-cac5-4a7f-a320-8fd087761133")
+		(property "Sheetname" "RX_POWER_USB"
+			(at 44.45 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rx_power_usb.kicad_sch"
+			(at 44.45 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
