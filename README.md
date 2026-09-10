@@ -55,7 +55,12 @@ FSOC_KiCad/
 
 ```text
 ├── FSOC_RX.kicad_pro
-├── FSOC_RX.kicad_sch
+├── FSOC_RX.kicad_sch (RX_ROOT)->
+|	├── rx_mcu_clock.kicad_sch
+|	├── rx_power_usb.kicad_sch
+|	├── rx_optical_afe.kicad_sch
+|	├── rx_host_io.kicad_sch
+|	└── rx_monitor.kicad_sch
 ├── FSOC_RX.kicad_pcb
 ├── sym-lib-table
 └── fp-lib-table
