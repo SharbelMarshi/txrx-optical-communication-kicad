@@ -260,7 +260,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|1701800|1016000|9454bd52-4ec7-4ccf-a981-6108fb72db93|a66e0053-3cfd-4a91-acdf-c28990063023|/d92cb11a-a3ee-43a3-bd30-881774176ced/f34fc6f9-8578-4c51-b563-9197629d870c|/d92cb11a-a3ee-43a3-bd30-881774176ced/f34fc6f9-8578-4c51-b563-9197629d870c|/d92cb11a-a3ee-43a3-bd30-881774176ced/f34fc6f9-8578-4c51-b563-9197629d870c",
+        "Intentional: TPS22919 QOD tied directly to VOUT per TI datasheet to enable quick output discharge."
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -661,7 +666,7 @@
         "uuid": "d92cb11a-a3ee-43a3-bd30-881774176ced"
       }
     ],
-    "used_designators": "U1-5,Y1-2,J1-5,#PWR1-44,C1-22,R1-13,JP1-2,L1,SW1-3,MOD1",
+    "used_designators": "#FLG1-4,U1-5,Y1-2,J1-5,#PWR1-44,C1-22,R1-13,JP1-2,L1,SW1-3,MOD1",
     "variants": []
   },
   "sheets": [
