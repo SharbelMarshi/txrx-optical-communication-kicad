@@ -838,7 +838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1953c4d-b610-438c-bc26-102464e0926b")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR037"
 			(at 161.29 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -898,7 +898,7 @@
 		(instances
 			(project "fsoc-rx"
 				(path "/84f983f4-ce6f-4382-bffe-129758307136/301f0e36-565d-4521-b24b-aab28d242cc9"
-					(reference "#PWR044")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)

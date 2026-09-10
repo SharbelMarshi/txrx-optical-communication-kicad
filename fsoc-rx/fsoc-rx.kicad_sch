@@ -5,9 +5,679 @@
 	(uuid "84f983f4-ce6f-4382-bffe-129758307136")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 82.55 100.33) (xy 85.09 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23fdf5b1-9326-49fc-89a1-b30a57fd2bb8")
+	)
+	(wire
+		(pts
+			(xy 82.55 97.79) (xy 85.09 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "276ce383-dcf2-4071-ad1c-b42fe0d24512")
+	)
+	(wire
+		(pts
+			(xy 129.54 68.58) (xy 127 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f03edcd-c527-4eae-a787-225738a83f42")
+	)
+	(wire
+		(pts
+			(xy 82.55 71.12) (xy 85.09 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "376260a7-deb6-4197-b2fd-acd7ab88570e")
+	)
+	(wire
+		(pts
+			(xy 162.56 69.85) (xy 165.1 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f91ae09-ee76-47e5-9dbd-b91d002e82b9")
+	)
+	(wire
+		(pts
+			(xy 129.54 97.79) (xy 127 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ff6c7b3-8c2e-4290-9e89-e9c9e1147765")
+	)
+	(wire
+		(pts
+			(xy 162.56 92.71) (xy 165.1 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43138134-ac5c-4a59-9c72-37aa7b25218b")
+	)
+	(wire
+		(pts
+			(xy 129.54 73.66) (xy 127 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e521761-6687-4aea-b675-3b082f6f8f4b")
+	)
+	(wire
+		(pts
+			(xy 82.55 102.87) (xy 85.09 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fdcb1da-96b1-4fd0-8cf9-7879c47a9f11")
+	)
+	(wire
+		(pts
+			(xy 162.56 77.47) (xy 165.1 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60850f47-baeb-44c1-b869-e1431a729bc0")
+	)
+	(wire
+		(pts
+			(xy 82.55 73.66) (xy 85.09 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6147ec7b-9781-42ae-91fa-ed9836203395")
+	)
+	(wire
+		(pts
+			(xy 162.56 95.25) (xy 165.1 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a94a0f7-8715-4055-b72f-bcc2ece89836")
+	)
+	(wire
+		(pts
+			(xy 82.55 81.28) (xy 85.09 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f15b0c2-86c6-4dc8-a0c9-a249574c0fc6")
+	)
+	(wire
+		(pts
+			(xy 82.55 105.41) (xy 85.09 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "761d2f0e-f33f-4782-9472-05add7ed4348")
+	)
+	(wire
+		(pts
+			(xy 203.2 69.85) (xy 200.66 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "883f0464-2807-4bd0-a384-6cc018c80dff")
+	)
+	(wire
+		(pts
+			(xy 162.56 80.01) (xy 165.1 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a5a058e-8909-4d03-a149-6064d31e0f48")
+	)
+	(wire
+		(pts
+			(xy 203.2 120.65) (xy 200.66 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f791e39-7b8e-4697-8771-a453d32a641a")
+	)
+	(wire
+		(pts
+			(xy 162.56 82.55) (xy 165.1 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "902cc9aa-3f79-48e7-bd37-c389afe40bd9")
+	)
+	(wire
+		(pts
+			(xy 162.56 118.11) (xy 165.1 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9266ebc2-8608-446b-88db-b157db8e5066")
+	)
+	(wire
+		(pts
+			(xy 82.55 121.92) (xy 85.09 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9485665b-d52e-484d-a679-fae5338ffb4e")
+	)
+	(wire
+		(pts
+			(xy 203.2 118.11) (xy 200.66 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2c921f9-fcc7-43ff-b9d2-ebf4435cdd77")
+	)
+	(wire
+		(pts
+			(xy 129.54 71.12) (xy 127 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6aa6d3e-ccea-43c8-a3df-921e3ed58ca0")
+	)
+	(wire
+		(pts
+			(xy 120.65 121.92) (xy 118.11 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9cddd9c-7496-4649-9e11-f7f1bdfc6568")
+	)
+	(wire
+		(pts
+			(xy 82.55 76.2) (xy 85.09 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba0d5ee1-65f2-49c9-bef0-c415bc6502aa")
+	)
+	(wire
+		(pts
+			(xy 82.55 68.58) (xy 85.09 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc8abfa3-aa59-45fd-a4e0-3286e3920d93")
+	)
+	(wire
+		(pts
+			(xy 82.55 78.74) (xy 85.09 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bef0aec6-bf0b-4532-ab91-27c5c4ede5c5")
+	)
+	(wire
+		(pts
+			(xy 162.56 85.09) (xy 165.1 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c223fe2d-3657-4f03-8026-036e6966469c")
+	)
+	(wire
+		(pts
+			(xy 162.56 74.93) (xy 165.1 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5a03fed-619a-4a8f-8b27-75285be1f27f")
+	)
+	(wire
+		(pts
+			(xy 200.66 74.93) (xy 203.2 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3d5bf43-6a26-411c-902c-45e761462b1c")
+	)
+	(wire
+		(pts
+			(xy 162.56 90.17) (xy 165.1 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d66e6727-727e-42d6-a71b-708e082e6a96")
+	)
+	(wire
+		(pts
+			(xy 162.56 72.39) (xy 165.1 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d95b90b7-55d5-4dfa-936d-6cffddc97e95")
+	)
+	(wire
+		(pts
+			(xy 129.54 76.2) (xy 127 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5394665-d4fe-4fcb-be27-2cdcc12f2598")
+	)
+	(wire
+		(pts
+			(xy 203.2 72.39) (xy 200.66 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5d2e01b-7ab8-4931-9430-f5a893932917")
+	)
+	(label "PPS_OUT"
+		(at 203.2 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "00246f76-58b9-4320-9267-5ebd20d89f14")
+	)
+	(label "+3V3_DIG"
+		(at 129.54 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d55b3ea-82b8-4f90-ab41-9d0083df3561")
+	)
+	(label "UART_DEBUG_RX"
+		(at 129.54 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d930c23-daed-4864-951e-24441fc20513")
+	)
+	(label "USB_DP"
+		(at 162.56 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0fd95b85-c16f-4031-a9f2-c6cc63adb0d5")
+	)
+	(label "RX_LEVEL_MON"
+		(at 165.1 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "189e8433-4b99-4c85-84ee-6f195854706a")
+	)
+	(label "HOST_I2C_SCL"
+		(at 82.55 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "20ac2a87-4797-42fc-9691-a3fe652856fc")
+	)
+	(label "HOST_I2C_SCL"
+		(at 82.55 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "219a8a27-bc30-4422-a298-5138b5639e89")
+	)
+	(label "+3V3_DIG"
+		(at 82.55 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3829b072-b21f-43c9-9741-f7b17aa823a5")
+	)
+	(label "TIA_OUT"
+		(at 82.55 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3b6119da-967c-4f56-8449-c0372e6a66f4")
+	)
+	(label "RX_DATA_DIG"
+		(at 203.2 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "489f1296-71dd-4a98-87e7-1bd0a2ae5ff3")
+	)
+	(label "HOST_I2C_SDA"
+		(at 162.56 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4fc6dcaa-f005-4474-a47a-0ec9e6d7d223")
+	)
+	(label "USB_DM"
+		(at 162.56 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "678c8bcb-3ba9-4a7e-8dec-f07022211191")
+	)
+	(label "+3V3_ANA"
+		(at 162.56 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6e21dda9-32a4-49ab-9912-104a6aa19864")
+	)
+	(label "UART_DEBUG_TX"
+		(at 203.2 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "72b008c8-5d30-4f1c-86bc-65419b8f9d1e")
+	)
+	(label "+3V3_ANA"
+		(at 162.56 118.11 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "738aa06d-eb69-426d-8386-b07c8e68164a")
+	)
+	(label "HOST_I2C_SDA"
+		(at 82.55 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "75c0d551-1729-4f5d-b2a2-3262221a9cae")
+	)
+	(label "+3V3_ANA"
+		(at 129.54 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ebe3bfc-0bd6-4b12-9ea3-aa706f691efa")
+	)
+	(label "USB_DM"
+		(at 82.55 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7f9f2df9-e260-494c-ac05-5af1c0030e58")
+	)
+	(label "RX_DATA_DIG"
+		(at 162.56 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "94ec6163-5b63-4b9b-84b9-8bce182810e7")
+	)
+	(label "HOST_UART_RX"
+		(at 162.56 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a1950b18-1431-4d4f-a0aa-21ceca91586b")
+	)
+	(label "HOST_UART_TX"
+		(at 203.2 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3c9675a-175f-46ff-a47a-32ee260a9f71")
+	)
+	(label "HOST_READY"
+		(at 129.54 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a46f325d-81b5-4e1c-a8b6-d086e91c8aed")
+	)
+	(label "HOST_UART_TX"
+		(at 82.55 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b1ffeced-9492-4811-8c23-a854e90661a5")
+	)
+	(label "USB_DP"
+		(at 82.55 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b8937236-46d2-4023-a95f-b375239ca59b")
+	)
+	(label "PPS_OUT"
+		(at 82.55 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c2d3e482-3d8a-4b12-98ff-463d8f2c82d9")
+	)
+	(label "HOST_I2C_SCL"
+		(at 162.56 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c7c8dfd4-090d-4557-a59b-9522b94ec03e")
+	)
+	(label "RX_LEVEL_MON"
+		(at 120.65 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c948d2e6-9774-4382-80ab-db93c1fc3705")
+	)
+	(label "UART_DEBUG_TX"
+		(at 82.55 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d25c4c52-3373-45e2-9cf7-fdef5d119b40")
+	)
+	(label "HOST_I2C_SDA"
+		(at 82.55 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d50d3340-8bc6-440b-974e-c3257a22e916")
+	)
+	(label "UART_DEBUG_RX"
+		(at 162.56 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f2cee493-72cf-460b-9f04-4daff0e78e3a")
+	)
+	(label "HOST_UART_RX"
+		(at 129.54 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f820fea4-2c33-43b7-917c-41b07c0badcc")
+	)
+	(label "+3V3_DIG"
+		(at 162.56 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f82b19f1-8919-4f27-a499-3b8d4138225a")
+	)
+	(label "TIA_OUT"
+		(at 203.2 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9cb9ae0-6216-4c10-b330-72fd8723f1dd")
+	)
+	(label "HOST_READY"
+		(at 162.56 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fd467189-eb6c-40a4-b9fd-cd4995ec94aa")
+	)
 	(sheet
-		(at 44.45 83.82)
-		(size 49.53 21.59)
+		(at 85.09 95.25)
+		(size 41.91 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22,7 +692,7 @@
 		)
 		(uuid "301f0e36-565d-4521-b24b-aab28d242cc9")
 		(property "Sheetname" "RX_HOST_IO"
-			(at 44.45 83.1084 0)
+			(at 85.09 94.5384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +703,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_host_io.kicad_sch"
-			(at 44.45 105.9946 0)
+			(at 85.09 108.5346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41,6 +711,56 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "+3V3_DIG" input
+			(at 85.09 97.79 180)
+			(uuid "f8443ee7-e376-4654-a3c5-7d755a81b1c4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_I2C_SCL" bidirectional
+			(at 85.09 100.33 180)
+			(uuid "d66cde0b-595f-4e5c-ae31-0c88eb575f90")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_I2C_SDA" bidirectional
+			(at 85.09 102.87 180)
+			(uuid "4d52b950-7edf-4798-9823-ab16420d6369")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART_DEBUG_TX" input
+			(at 85.09 105.41 180)
+			(uuid "4b56457b-db10-4035-9457-8f77f1fd0f9a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART_DEBUG_RX" output
+			(at 127 97.79 0)
+			(uuid "291c6f87-0d3a-4537-bddc-f7aa7d74e9e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -52,8 +772,8 @@
 		)
 	)
 	(sheet
-		(at 118.11 85.09)
-		(size 59.69 20.32)
+		(at 165.1 115.57)
+		(size 35.56 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -68,7 +788,7 @@
 		)
 		(uuid "dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618")
 		(property "Sheetname" "RX_OPTICAL_AFE"
-			(at 118.11 84.3784 0)
+			(at 165.1 114.8584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -79,7 +799,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_optical_afe.kicad_sch"
-			(at 118.11 105.9946 0)
+			(at 165.1 125.0446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -87,6 +807,36 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "+3V3_ANA" input
+			(at 165.1 118.11 180)
+			(uuid "00d10f96-9fb3-4c30-a20f-2c1f9a20ee3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_DATA_DIG" output
+			(at 200.66 118.11 0)
+			(uuid "09fc8799-7bd1-40f1-b4c6-cf9dd1bbd2d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TIA_OUT" output
+			(at 200.66 120.65 0)
+			(uuid "984b1ff6-5313-40de-b3ef-73902271176c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -98,8 +848,8 @@
 		)
 	)
 	(sheet
-		(at 44.45 35.56)
-		(size 57.15 27.94)
+		(at 85.09 66.04)
+		(size 41.91 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -114,7 +864,7 @@
 		)
 		(uuid "e570b0c0-cac5-4a7f-a320-8fd087761133")
 		(property "Sheetname" "RX_POWER_USB"
-			(at 44.45 34.8484 0)
+			(at 85.09 65.3284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -125,7 +875,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_power_usb.kicad_sch"
-			(at 44.45 64.0846 0)
+			(at 85.09 84.4046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -133,6 +883,106 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "HOST_I2C_SCL" bidirectional
+			(at 85.09 68.58 180)
+			(uuid "27cf5b12-1691-4f57-a039-11391b3d8002")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_I2C_SDA" bidirectional
+			(at 85.09 71.12 180)
+			(uuid "f542ecee-74e0-4e02-9f20-b908cc8c7f10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_UART_TX" input
+			(at 85.09 73.66 180)
+			(uuid "747c88e4-37f1-4092-a7f5-d313cb997ffa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PPS_OUT" input
+			(at 85.09 76.2 180)
+			(uuid "97c251a6-dad0-492b-adc8-d4b8fe6ff682")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DM" bidirectional
+			(at 85.09 78.74 180)
+			(uuid "a79e1eea-babb-4816-a019-b0344da29b2f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" bidirectional
+			(at 85.09 81.28 180)
+			(uuid "a693b578-d5f3-468f-b069-441483767017")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+3V3_ANA" output
+			(at 127 68.58 0)
+			(uuid "41988072-ac30-4588-9267-98d006f1d391")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+3V3_DIG" output
+			(at 127 71.12 0)
+			(uuid "1d2a0336-356a-4c9b-9f59-2cc4b8e7f4d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HOST_READY" output
+			(at 127 73.66 0)
+			(uuid "b104d226-7680-42f8-9785-5d7b11135d25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HOST_UART_RX" output
+			(at 127 76.2 0)
+			(uuid "01d388a3-3e7e-4633-8a96-0d39fa1d7648")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -144,8 +994,8 @@
 		)
 	)
 	(sheet
-		(at 124.46 36.83)
-		(size 57.15 30.48)
+		(at 165.1 67.31)
+		(size 35.56 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -160,7 +1010,7 @@
 		)
 		(uuid "eb54e58b-22bf-4adb-9596-7fe9e805fb8b")
 		(property "Sheetname" "RX_MCU_CLOCK"
-			(at 124.46 36.1184 0)
+			(at 165.1 66.5984 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -171,7 +1021,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_mcu_clock.kicad_sch"
-			(at 124.46 67.8946 0)
+			(at 165.1 98.3746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -179,6 +1029,146 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "+3V3_ANA" input
+			(at 165.1 69.85 180)
+			(uuid "bffc2266-7b1b-48aa-91cd-183c29ea8cef")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+3V3_DIG" input
+			(at 165.1 72.39 180)
+			(uuid "6492ceeb-56ba-4f67-bad6-38f77f4bbb83")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_I2C_SCL" bidirectional
+			(at 165.1 74.93 180)
+			(uuid "00097a62-d937-4f5f-a5c1-e69bcc9f0da0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_I2C_SDA" bidirectional
+			(at 165.1 77.47 180)
+			(uuid "8fb57c8e-8bd0-4f64-95c8-a1f373d429c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_READY" input
+			(at 165.1 80.01 180)
+			(uuid "dea85715-68f0-4f55-9b3a-3861aac0a1fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_UART_RX" input
+			(at 165.1 82.55 180)
+			(uuid "82c305ab-c598-4e24-beb3-15581e4d1060")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_DATA_DIG" input
+			(at 165.1 85.09 180)
+			(uuid "0ec1372d-4c41-4b3e-a628-b4fbcefa78d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_LEVEL_MON" input
+			(at 165.1 87.63 180)
+			(uuid "4bc17695-bae5-483d-bbca-b094b7920eb2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART_DEBUG_RX" input
+			(at 165.1 90.17 180)
+			(uuid "9c9037f5-5b2b-464c-ad22-5c40d418bc52")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DM" bidirectional
+			(at 165.1 92.71 180)
+			(uuid "a169a758-c80e-44b0-9240-65b0620f4e64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" bidirectional
+			(at 165.1 95.25 180)
+			(uuid "df2c2331-b534-4a4e-83fa-e7b479b540bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HOST_UART_TX" output
+			(at 200.66 69.85 0)
+			(uuid "240a3611-5865-4c0e-b5af-2f617eb04ac1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PPS_OUT" output
+			(at 200.66 72.39 0)
+			(uuid "dd42202a-2556-4369-8037-d4be43a2ce02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_DEBUG_TX" output
+			(at 200.66 74.93 0)
+			(uuid "49862cfd-e4a8-450b-8955-a083ecf9c03d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -190,8 +1180,8 @@
 		)
 	)
 	(sheet
-		(at 45.72 125.73)
-		(size 50.8 20.32)
+		(at 85.09 119.38)
+		(size 33.02 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -206,7 +1196,7 @@
 		)
 		(uuid "f69008f8-b708-4c10-8265-456ba2754d58")
 		(property "Sheetname" "RX_MONITOR"
-			(at 45.72 125.0184 0)
+			(at 85.09 118.6684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -217,7 +1207,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_monitor.kicad_sch"
-			(at 45.72 146.6346 0)
+			(at 85.09 125.0446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -225,6 +1215,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "TIA_OUT" input
+			(at 85.09 121.92 180)
+			(uuid "a6b8452f-d0df-45d8-aa65-d5961207cc9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_LEVEL_MON" output
+			(at 118.11 121.92 0)
+			(uuid "786df25d-145c-4ef5-bc4d-594f7d43a647")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
