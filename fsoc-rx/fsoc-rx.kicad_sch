@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 60.96 90.17)
+		(at 44.45 83.82)
 		(size 49.53 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "301f0e36-565d-4521-b24b-aab28d242cc9")
 		(property "Sheetname" "RX_HOST_IO"
-			(at 60.96 89.4584 0)
+			(at 44.45 83.1084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +33,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_host_io.kicad_sch"
-			(at 60.96 112.3446 0)
+			(at 44.45 105.9946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -47,6 +47,52 @@
 			(project "fsoc-rx"
 				(path "/84f983f4-ce6f-4382-bffe-129758307136"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 85.09)
+		(size 59.69 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618")
+		(property "Sheetname" "RX_OPTICAL_AFE"
+			(at 118.11 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rx_optical_afe.kicad_sch"
+			(at 118.11 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136"
+					(page "5")
 				)
 			)
 		)
@@ -139,6 +185,52 @@
 			(project "fsoc-rx"
 				(path "/84f983f4-ce6f-4382-bffe-129758307136"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 45.72 125.73)
+		(size 50.8 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f69008f8-b708-4c10-8265-456ba2754d58")
+		(property "Sheetname" "RX_MONITOR"
+			(at 45.72 125.0184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rx_monitor.kicad_sch"
+			(at 45.72 146.6346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136"
+					(page "6")
 				)
 			)
 		)

@@ -2281,7 +2281,7 @@
 			)
 		)
 		(property "Value" "TLV3201AIDBVR"
-			(at 0 0 0)
+			(at -1.778 -24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2291,7 +2291,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 0 0 0)
+			(at 0 -28.956 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2302,7 +2302,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv3201.pdf"
-			(at 0 0 0)
+			(at 0 -28.956 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2313,7 +2313,7 @@
 			)
 		)
 		(property "Description" "40 ns micropower push-pull comparator, 2.7 V to 5.5 V, 5-pin SOT-23"
-			(at 0 0 0)
+			(at 0 -28.956 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2324,7 +2324,7 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 0 0 0)
+			(at -1.524 -22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2335,7 +2335,7 @@
 			)
 		)
 		(property "MPN" "TLV3201AIDBVR"
-			(at 0 0 0)
+			(at -1.778 -26.924 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -2359,7 +2359,7 @@
 		(symbol "TLV3201_0_1"
 			(polyline
 				(pts
-					(xy -3.81 -3.81) (xy -3.81 3.81) (xy 3.81 0) (xy -3.81 -3.81)
+					(xy -3.81 -5.08) (xy -3.81 5.08) (xy 3.81 0) (xy -3.81 -5.08)
 				)
 				(stroke
 					(width 0)
@@ -2390,7 +2390,7 @@
 				)
 			)
 			(pin power_in line
-				(at -3.81 -6.35 90)
+				(at 0 -5.08 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2444,7 +2444,7 @@
 				)
 			)
 			(pin power_in line
-				(at -3.81 6.35 270)
+				(at 0 5.08 270)
 				(length 2.54)
 				(name "VCC"
 					(effects

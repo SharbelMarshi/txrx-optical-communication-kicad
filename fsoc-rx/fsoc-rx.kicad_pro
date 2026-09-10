@@ -429,7 +429,7 @@
         "uuid": "84f983f4-ce6f-4382-bffe-129758307136"
       }
     ],
-    "used_designators": "SW1-2,L1,R1-9,JP1,#PWR1-11,C1-22,#FLG1-2,Y1-2,U1-4,J1-4",
+    "used_designators": "SW1-2,L1,R1-13,JP1,D1,#PWR1-11,#PWR34-42,C1-26,#FLG1-2,Y1-2,U1-6,J1-4",
     "variants": []
   },
   "sheets": [
@@ -448,6 +448,14 @@
     [
       "301f0e36-565d-4521-b24b-aab28d242cc9",
       "RX_HOST_IO"
+    ],
+    [
+      "dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618",
+      "RX_OPTICAL_AFE"
+    ],
+    [
+      "f69008f8-b708-4c10-8265-456ba2754d58",
+      "RX_MONITOR"
     ]
   ],
   "text_variables": {},
