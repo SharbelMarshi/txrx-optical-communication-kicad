@@ -3045,6 +3045,12 @@
 		(uuid "aba2d5fa-615e-46d7-842c-dcb8fe73b793")
 	)
 	(junction
+		(at 137.16 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf9d3a53-32cb-42b3-bb9a-8d770dfe1478")
+	)
+	(junction
 		(at 222.25 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3291,6 +3297,16 @@
 			(type default)
 		)
 		(uuid "27fa4490-c634-46c6-a009-bb4a6a7ce3ed")
+	)
+	(wire
+		(pts
+			(xy 133.35 27.94) (xy 137.16 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28c99d8f-895b-4af5-b7a7-1148976a0918")
 	)
 	(wire
 		(pts
@@ -4257,7 +4273,7 @@
 	)
 	(hierarchical_label "+3V3_ANA"
 		(shape input)
-		(at 137.16 27.94 180)
+		(at 133.35 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)

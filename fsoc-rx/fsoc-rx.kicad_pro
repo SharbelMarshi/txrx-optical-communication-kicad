@@ -429,7 +429,7 @@
         "uuid": "84f983f4-ce6f-4382-bffe-129758307136"
       }
     ],
-    "used_designators": "SW1-2,L1,R1-7,JP1,#PWR1-11,C1-22,#FLG1-2,Y1-2,U1-4,J1-3",
+    "used_designators": "SW1-2,L1,R1-9,JP1,#PWR1-11,C1-22,#FLG1-2,Y1-2,U1-4,J1-4",
     "variants": []
   },
   "sheets": [
@@ -444,6 +444,10 @@
     [
       "eb54e58b-22bf-4adb-9596-7fe9e805fb8b",
       "RX_MCU_CLOCK"
+    ],
+    [
+      "301f0e36-565d-4521-b24b-aab28d242cc9",
+      "RX_HOST_IO"
     ]
   ],
   "text_variables": {},
