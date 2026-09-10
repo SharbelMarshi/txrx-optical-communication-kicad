@@ -2984,8 +2984,18 @@
 		)
 		(uuid "eb418e2a-f25a-4294-ba88-65be1a5938a2")
 	)
+	(label "SYS_5V"
+		(at 189.23 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f42825f6-72b6-4111-8475-435749270d6a")
+	)
 	(hierarchical_label "USB_DP"
-		(shape input)
+		(shape bidirectional)
 		(at 133.35 82.55 0)
 		(effects
 			(font
@@ -3007,7 +3017,7 @@
 		(uuid "279713f0-082d-4910-a69b-818522f62940")
 	)
 	(hierarchical_label "USB_DM"
-		(shape input)
+		(shape bidirectional)
 		(at 133.35 80.01 0)
 		(effects
 			(font
@@ -3018,7 +3028,7 @@
 		(uuid "2f30fa91-b728-4048-af05-2378657ee074")
 	)
 	(hierarchical_label "PPS_OUT"
-		(shape output)
+		(shape input)
 		(at 162.56 119.38 270)
 		(effects
 			(font
@@ -3029,7 +3039,7 @@
 		(uuid "49257517-3330-45fb-9a22-576ffdf37c07")
 	)
 	(hierarchical_label "HOST_READY"
-		(shape input)
+		(shape output)
 		(at 167.64 119.38 270)
 		(effects
 			(font
@@ -3039,19 +3049,8 @@
 		)
 		(uuid "4b2cb8fb-8c65-4cd5-b1ed-f3f7b54984e0")
 	)
-	(hierarchical_label "SYS_5V"
-		(shape output)
-		(at 189.23 67.31 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "65fc63c7-2db3-443a-9eec-6e71699be814")
-	)
 	(hierarchical_label "HOST_UART_RX"
-		(shape input)
+		(shape output)
 		(at 147.32 119.38 270)
 		(effects
 			(font
@@ -3073,7 +3072,7 @@
 		(uuid "d4b44ce4-62fe-4c2c-b9f2-ebd6daceeb98")
 	)
 	(hierarchical_label "HOST_UART_TX"
-		(shape output)
+		(shape input)
 		(at 142.24 119.38 270)
 		(effects
 			(font
