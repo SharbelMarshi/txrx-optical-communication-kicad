@@ -1842,7 +1842,7 @@
 			)
 		)
 		(property "Value" "OPA320AIDBVR"
-			(at 0 0 0)
+			(at -0.508 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1852,7 +1852,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 0 0 0)
+			(at 1.27 -15.748 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -1863,7 +1863,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa320.pdf"
-			(at 0 0 0)
+			(at 1.27 -15.748 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -1874,7 +1874,7 @@
 			)
 		)
 		(property "Description" "Precision 20 MHz RRIO CMOS operational amplifier, 5-pin SOT-23"
-			(at 0 0 0)
+			(at 1.27 -15.748 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -1885,7 +1885,7 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 0 0 0)
+			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -1896,7 +1896,7 @@
 			)
 		)
 		(property "MPN" "OPA320AIDBVR"
-			(at 0 0 0)
+			(at -0.762 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -1920,7 +1920,7 @@
 		(symbol "OPA320_0_1"
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -3.81 3.81) (xy 3.81 0) (xy -3.81 -3.81) (xy -3.81 0)
+					(xy -3.81 0) (xy -3.81 5.08) (xy 3.81 0) (xy -3.81 -5.08) (xy -3.81 0)
 				)
 				(stroke
 					(width 0)
