@@ -110,6 +110,23 @@ Verificated: Symbol and Footprint compatibility:
 9. ARD-LASER-MDI650-1-5 ✓
 10. FTSH-105-01-L-DV-K  ✓
 
+### TX schamtics:
+
+<img src="images/tx-schematics.png" alt="schematics" width="810" />
+
+### TX PCB: 
+
+**status:** PCB is almost done (details below)
+
+<img src="images/TX-PCB-design.png" alt="pcb design" width="402" /><img src="images/TX-PCB.png" alt="pcb" width="402" />
+
+**Errors:** 4 Hole clearance violation:
+USB 2.0 (GCT USB4105 model) connector’s A1/A12/B1/B12 GND copper pads are 0.1944 mm from one of J1’s non-plated through holes locating holes, while our board-wide hole-clearance is set to 0.25 mm. 
+
+Two options to fix: 
+1. If the PCB manufacturer can deal with 0.1944mm then the board setup can be changed (need approval)
+2. To change the USB model to a one that has a 0.25mm between non-plated through holes and copper pads
+
 ## System Uses:
 
 <img src="tikz-diagrams/sys-uses1.svg" alt="uses1" width="400" />
