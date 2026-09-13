@@ -118,7 +118,7 @@ Verificated: Symbol and Footprint compatibility:
 
 **status:** PCB is almost done (details below)
 
-<img src="images/TX-PCB-design.png" alt="pcb design" width="402" /><img src="images/TX-PCB.png" alt="pcb" width="402" />
+<img src="images/TX-PCB-design.png" alt="pcb design" width="300" /><img src="images/TX-PCB.png" alt="pcb" width="300" />
 
 **Errors:** 4 Hole clearance violation:
 USB 2.0 (GCT USB4105 model) connector’s A1/A12/B1/B12 GND copper pads are 0.1944 mm from one of J1’s non-plated through holes locating holes, while our board-wide hole-clearance is set to 0.25 mm. 
