@@ -355,7 +355,7 @@
 		)
 		(uuid "0cfe341e-7e7a-4410-bb3e-74e5d64af322")
 	)
-	(label "USB_DM"
+	(label "USB_DN"
 		(at 92.71 85.09 180)
 		(effects
 			(font
@@ -585,7 +585,7 @@
 		)
 		(uuid "d3bb0ff9-ff41-4892-a251-247245d442fd")
 	)
-	(label "USB_DM"
+	(label "USB_DN"
 		(at 166.37 91.44 180)
 		(effects
 			(font
@@ -627,7 +627,7 @@
 	)
 	(sheet
 		(at 168.91 73.66)
-		(size 36.83 22.86)
+		(size 36.83 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -653,7 +653,7 @@
 			)
 		)
 		(property "Sheetfile" "tx_mcu_clock.kicad_sch"
-			(at 168.91 97.1046 0)
+			(at 168.91 95.8346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -723,16 +723,6 @@
 				(justify left)
 			)
 		)
-		(pin "USB_DM" bidirectional
-			(at 168.91 91.44 180)
-			(uuid "3d8224e4-fe85-4653-91b0-96682cd6d392")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "USB_DP" bidirectional
 			(at 168.91 93.98 180)
 			(uuid "5556f2a6-b8a8-4c4d-aef9-17142318816f")
@@ -793,6 +783,16 @@
 				(justify right)
 			)
 		)
+		(pin "USB_DN" bidirectional
+			(at 168.91 91.44 180)
+			(uuid "77c500af-7c84-42e1-aad5-9b7812277a94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced"
@@ -828,7 +828,7 @@
 			)
 		)
 		(property "Sheetfile" "tx_power_usb.kicad_sch"
-			(at 95.25 91.44 0)
+			(at 95.25 91.186 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -871,16 +871,6 @@
 		(pin "PPS_OUT" input
 			(at 95.25 82.55 180)
 			(uuid "c4697ff8-2242-41af-9ab0-cf4b81658727")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USB_DM" bidirectional
-			(at 95.25 85.09 180)
-			(uuid "c6c9d2d9-5f28-48dd-b42a-592e2c4576c9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -936,6 +926,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "USB_DN" bidirectional
+			(at 95.25 85.09 180)
+			(uuid "f1a03524-3606-4413-9935-08863c74af44")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances

@@ -3,11 +3,11 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
-		(at 0 9 0)
+	(property "Reference" "SW3"
+		(at 0 -4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "bc10b841-5d83-45e0-bc8d-3618956308fe")
+		(uuid "e359f80a-59a7-4179-9a5a-ff070ea7ed4c")
 		(effects
 			(font
 				(size 1 1)
@@ -15,11 +15,11 @@
 			)
 		)
 	)
-	(property "Value" "ES22MCBE"
-		(at 0 11 0)
+	(property "Value" "SW_DPST"
+		(at 0 5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "92d55063-5e60-4b70-8f5e-cee0021661c5")
+		(uuid "18b7f0d0-bc6a-48ae-b771-5f29061be30e")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "aaa69581-ccda-4f51-a633-527537f78b01")
+		(uuid "6030a334-615a-4021-b824-69e88076882a")
 		(effects
 			(font
 				(size 1 1)
@@ -40,12 +40,12 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Double Pole Single Throw (DPST) Switch"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "02aa0a65-6f3d-44fe-83de-8bc575be771d")
+		(uuid "88856145-9985-4ae0-86d7-5370eed3c92f")
 		(effects
 			(font
 				(size 1 1)
@@ -53,6 +53,8 @@
 			)
 		)
 	)
+	(sheetname "/TX_LASER/")
+	(sheetfile "tx_laser.kicad_sch")
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_rect
@@ -64,7 +66,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "4d968d60-b64f-486d-b252-cfc2b7c0eaf2")
+		(uuid "9fde6ed6-f154-42c3-906a-c59ee0428124")
 	)
 	(fp_rect
 		(start -5.015 -3.01)
@@ -75,7 +77,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "c19da93f-55d9-4174-b588-e253b8fcfcdc")
+		(uuid "25ba5d40-40c9-451f-aa5c-704799f66e57")
 	)
 	(fp_circle
 		(center -4.25 -2.25)
@@ -86,13 +88,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "d3a7493a-d2d1-407c-8fa0-11af4cf16b74")
+		(uuid "b33c8750-43fc-4b8e-b50e-78a3ea848db3")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 12.5 0)
+		(at 0 2 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "d276641e-326d-4a1b-bc98-71bec9bbd5de")
+		(uuid "3c170db9-8c7f-4bdc-be71-2aafe29e400a")
 		(effects
 			(font
 				(size 1 1)
@@ -106,7 +108,7 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "4786cf8e-a027-4dc1-be52-5c77a41b02db")
+		(uuid "32b040f6-b03e-47d1-a575-7b7d95b889cb")
 	)
 	(pad "2" thru_hole circle
 		(at -2.54 2.54)
@@ -114,7 +116,7 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "512069ff-4510-4bed-b4d8-51fc2a814390")
+		(uuid "21f76f65-7de3-4316-a1f4-58bc75edd21b")
 	)
 	(pad "3" thru_hole circle
 		(at 2.54 -2.54)
@@ -122,7 +124,7 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "5daff075-07d1-48f7-81d5-194db14b1b36")
+		(uuid "82e38512-8816-43fe-98b4-b732cc868705")
 	)
 	(pad "4" thru_hole circle
 		(at 2.54 2.54)
@@ -130,7 +132,7 @@
 		(drill 0.9)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "cb5ef9f1-35f9-4dee-a9b8-e5eb1241ad51")
+		(uuid "2056c76e-5aa5-4a55-ac37-a777ca9dcfad")
 	)
 	(embedded_fonts no)
 )

@@ -2673,6 +2673,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 82.55) (xy 101.6 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e2f3114-4783-455b-896f-599b2de00992")
+	)
+	(wire
+		(pts
 			(xy 222.25 67.31) (xy 222.25 69.85)
 		)
 		(stroke
@@ -2913,16 +2923,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 80.01) (xy 101.6 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "daa4e961-a046-4e71-8a53-32261f7baab2")
-	)
-	(wire
-		(pts
 			(xy 226.06 67.31) (xy 222.25 67.31)
 		)
 		(stroke
@@ -2991,6 +2991,16 @@
 		)
 		(uuid "ccbfe148-2540-4a64-941d-3e63f272074a")
 	)
+	(label "USB_CONN_DP"
+		(at 104.14 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da5325b8-8741-46a4-9c15-47098c429708")
+	)
 	(label "VIN_HOST_5V"
 		(at 165.1 85.09 0)
 		(effects
@@ -3021,6 +3031,16 @@
 		)
 		(uuid "f42825f6-72b6-4111-8475-435749270d6a")
 	)
+	(label "USB_CONN_DN"
+		(at 101.6 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7393170-5550-4896-b6ae-cc9692db6709")
+	)
 	(hierarchical_label "USB_DP"
 		(shape bidirectional)
 		(at 133.35 82.55 0)
@@ -3043,7 +3063,7 @@
 		)
 		(uuid "279713f0-082d-4910-a69b-818522f62940")
 	)
-	(hierarchical_label "USB_DM"
+	(hierarchical_label "USB_DN"
 		(shape bidirectional)
 		(at 133.35 80.01 0)
 		(effects
@@ -4492,7 +4512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "fsoc_footprints:TYPE-C-31-M-14"
 			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
