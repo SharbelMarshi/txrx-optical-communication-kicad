@@ -117,10 +117,11 @@ Verificated: Symbol and Footprint compatibility:
 
 ### TX PCB: 
 
-**Status:** PCB is Done
-
 <img src="images/TX-PCB-design.png" alt="pcb design" width="315" /><img src="images/TX-PCB.png" alt="pcb" width="335" />
 
+### RX PCB: 
+
+<img src="images/RX-PCB-design.png" alt="pcb design" width="315" /><img src="images/RX-PCB.png" alt="pcb" width="335" />
 
 ## System Uses:
 
