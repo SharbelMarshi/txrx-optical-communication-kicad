@@ -4194,7 +4194,7 @@
 		)
 		(uuid "5055fa67-7793-4058-ae53-1282ff405f0f")
 	)
-	(hierarchical_label "USB_DM"
+	(hierarchical_label "USB_DN"
 		(shape bidirectional)
 		(at 118.11 72.39 180)
 		(effects
@@ -6755,7 +6755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm"
+		(property "Footprint" "Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm_ThermalVias"
 			(at 160.02 88.9 0)
 			(hide yes)
 			(show_name no)

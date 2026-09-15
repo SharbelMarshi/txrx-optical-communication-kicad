@@ -3323,6 +3323,16 @@
 		)
 		(uuid "da8569f0-708f-4fba-be98-adfa6d9befac")
 	)
+	(label "USB_CONN_DP"
+		(at 102.87 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2ff5c74-a468-4bb1-90e6-10fdd00456e2")
+	)
 	(label "VBUS_USB"
 		(at 109.22 72.39 0)
 		(effects
@@ -3332,6 +3342,16 @@
 			(justify left bottom)
 		)
 		(uuid "e55d9d7e-960c-4d2c-8199-238a5da2b11e")
+	)
+	(label "USB_CONN_DN"
+		(at 102.87 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ec1036fe-18f2-4d74-9215-e48d0c61bcae")
 	)
 	(hierarchical_label "HOST_READY"
 		(shape output)
@@ -3366,7 +3386,7 @@
 		)
 		(uuid "3306f86d-7a48-4005-a73f-dfd2e3be9ca9")
 	)
-	(hierarchical_label "USB_DM"
+	(hierarchical_label "USB_DN"
 		(shape bidirectional)
 		(at 134.62 90.17 0)
 		(effects
@@ -3788,7 +3808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "fsoc_footprints:TYPE-C-31-M-14"
 			(at 87.63 92.71 0)
 			(hide yes)
 			(show_name no)

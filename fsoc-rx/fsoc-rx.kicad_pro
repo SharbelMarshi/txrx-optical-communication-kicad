@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 1.27
+          "drill": 0.5,
+          "height": 2.2,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -69,8 +69,23 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|156698804|84916766|04dbeaf7-7551-4505-ae11-ff83bf3b08e3|1f75a613-423a-4176-8378-69b04fed9486",
+          ""
+        ],
+        [
+          "copper_edge_clearance|156698804|95083233|278a3a81-c81f-485a-94cc-cbe8dbcb9de5|8b1bf9b2-cad6-47b5-8a3e-98ec070fe899",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -140,9 +155,9 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.25,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -152,10 +167,10 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
-        "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_through_hole_diameter": 0.2,
+        "min_track_width": 0.127,
+        "min_via_annular_width": 0.15,
+        "min_via_diameter": 0.6,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -203,7 +218,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +247,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -511,6 +533,30 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "name": "POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "tuning_profile": "",
+        "via_diameter": 0.8,
+        "via_drill": 0.4
+      },
+      {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.2,
+        "diff_pair_width": 0.158,
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -518,7 +564,52 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "USB",
+        "pattern": "/USB_DP"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB_DN"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*VBUS_USB"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*VIN_HOST_5V"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*SYS_5V"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*+3V3_DIG"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*+1V1"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "*USB_CONN_DP"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "*USB_CONN_DN"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*+3V3_ANA"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -661,7 +752,7 @@
         "uuid": "84f983f4-ce6f-4382-bffe-129758307136"
       }
     ],
-    "used_designators": "R1-14,JP1,U1-6,C1-27,SW1-2,L1,Y1-2,#PWR1-47,D1,Rf1,#FLG1-4,Cf1,J1-4",
+    "used_designators": "J1-4,Cf1,#FLG1-4,#PWR1-47,D1,Y1-2,Rf1,L1,C1-27,SW1-2,U1-6,R1-14,JP1",
     "variants": []
   },
   "sheets": [

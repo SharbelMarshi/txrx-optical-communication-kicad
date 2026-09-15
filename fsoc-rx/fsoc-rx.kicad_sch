@@ -445,7 +445,7 @@
 		)
 		(uuid "4fc6dcaa-f005-4474-a47a-0ec9e6d7d223")
 	)
-	(label "USB_DM"
+	(label "USB_DN"
 		(at 162.56 92.71 180)
 		(effects
 			(font
@@ -505,7 +505,7 @@
 		)
 		(uuid "7ebe3bfc-0bd6-4b12-9ea3-aa706f691efa")
 	)
-	(label "USB_DM"
+	(label "USB_DN"
 		(at 82.55 78.74 180)
 		(effects
 			(font
@@ -849,7 +849,7 @@
 	)
 	(sheet
 		(at 85.09 66.04)
-		(size 41.91 17.78)
+		(size 41.91 16.51)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -875,7 +875,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_power_usb.kicad_sch"
-			(at 85.09 84.4046 0)
+			(at 85.09 83.1346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -918,16 +918,6 @@
 		(pin "PPS_OUT" input
 			(at 85.09 76.2 180)
 			(uuid "97c251a6-dad0-492b-adc8-d4b8fe6ff682")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USB_DM" bidirectional
-			(at 85.09 78.74 180)
-			(uuid "a79e1eea-babb-4816-a019-b0344da29b2f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -983,6 +973,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "USB_DN" bidirectional
+			(at 85.09 78.74 180)
+			(uuid "bc6acbe3-4437-42e8-9a9e-114a0b631ee0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -1121,16 +1121,6 @@
 				(justify left)
 			)
 		)
-		(pin "USB_DM" bidirectional
-			(at 165.1 92.71 180)
-			(uuid "a169a758-c80e-44b0-9240-65b0620f4e64")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "USB_DP" bidirectional
 			(at 165.1 95.25 180)
 			(uuid "df2c2331-b534-4a4e-83fa-e7b479b540bb")
@@ -1169,6 +1159,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "USB_DN" bidirectional
+			(at 165.1 92.71 180)
+			(uuid "c5a3706a-674a-4132-8de7-722b575de2a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
