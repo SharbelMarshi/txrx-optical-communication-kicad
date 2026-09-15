@@ -117,11 +117,15 @@ Verificated: Symbol and Footprint compatibility:
 
 ### TX PCB: 
 
-<img src="images/TX-PCB-design.png" alt="pcb design" width="315" /><img src="images/TX-PCB.png" alt="pcb" width="335" />
+<img src="images/TX-PCB-design.png" alt="pcb design" width="400" /><img src="images/TX-PCB.png" alt="pcb" width="400" />
+
+### RX schamtics:
+
+<img src="images/rx-schematics.png" alt="schematics" width="810" />
 
 ### RX PCB: 
 
-<img src="images/RX-PCB-design.png" alt="pcb design" width="315" /><img src="images/RX-PCB.png" alt="pcb" width="335" />
+<img src="images/RX-PCB-design.png" alt="pcb design" width="400" /><img src="images/RX-PCB.png" alt="pcb" width="400" />
 
 ## System Uses:
 
