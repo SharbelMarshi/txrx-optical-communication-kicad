@@ -2154,186 +2154,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "fsoc_symbols:ASTX-H11"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Y"
-				(at 4.318 -2.794 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "ASTX-H11-10.000MHz-T"
-				(at 5.842 -3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 0.508 0.508)
-					)
-				)
-			)
-			(property "Footprint" "fsoc_footprints:ASTX-H11_3225"
-				(at 0 -15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://abracon.com/Oscillators/ASTX-H11.pdf"
-				(at 2.032 -20.066 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "10 MHz HCMOS TCXO, 3.3 V nominal, 3.2 x 2.5 x 1.0 mm, 4-SMD"
-				(at 0 -17.78 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "Abracon"
-				(at -0.254 -22.86 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "ASTX-H11-10.000MHz-T"
-				(at 0 -25.908 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "TCXO 10MHz HCMOS Abracon ASTX-H11"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "ASTX-H11_1_1"
-				(rectangle
-					(start -5.08 2.54)
-					(end 5.08 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -7.62 0 0)
-					(length 2.54)
-					(name "TRI_STATE"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "OUT"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 0.508 0.508)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "fsoc_symbols:FTSH-105-01-L-DV-K"
 			(pin_names
 				(offset 1.016)
@@ -3051,12 +2871,6 @@
 		(uuid "aba2d5fa-615e-46d7-842c-dcb8fe73b793")
 	)
 	(junction
-		(at 222.25 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c0efd86d-cc10-4855-ac94-0c488470f9fe")
-	)
-	(junction
 		(at 220.98 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3450,16 +3264,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 100.33) (xy 222.25 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47e58b94-ab54-4735-99ea-d12e16eb0da8")
-	)
-	(wire
-		(pts
 			(xy 163.83 138.43) (xy 163.83 139.7)
 		)
 		(stroke
@@ -3530,7 +3334,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 95.25) (xy 222.25 100.33)
+			(xy 222.25 95.25) (xy 222.25 101.6)
 		)
 		(stroke
 			(width 0)
@@ -5534,114 +5338,6 @@
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/1d4fb2f8-c912-4583-8b21-2ebadb633d8f"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "fsoc_symbols:ASTX-H11")
-		(at 229.87 100.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "429cc96f-1860-4337-840a-5bfdfff1ac7a")
-		(property "Reference" "Y2"
-			(at 234.188 103.124 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ASTX-H11-10.000MHz-T"
-			(at 235.712 103.632 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-			)
-		)
-		(property "Footprint" "fsoc_footprints:ASTX-H11_3225"
-			(at 229.87 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://abracon.com/Oscillators/ASTX-H11.pdf"
-			(at 231.902 120.396 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "10 MHz HCMOS TCXO, 3.3 V nominal, 3.2 x 2.5 x 1.0 mm, 4-SMD"
-			(at 229.87 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Abracon"
-			(at 229.616 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "ASTX-H11-10.000MHz-T"
-			(at 229.87 126.238 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "4"
-			(uuid "b72d726f-6bcc-4901-bd68-89afb86b1357")
-		)
-		(pin "1"
-			(uuid "b53091f0-851c-41f1-a8e5-a5d9991d24f7")
-		)
-		(pin "3"
-			(uuid "63e20442-484e-499c-87e4-ff1f27c49f04")
-		)
-		(pin "2"
-			(uuid "1c874117-e462-424e-b4dc-ccfa89c2fd4f")
-		)
-		(instances
-			(project "fsoc-tx"
-				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/1d4fb2f8-c912-4583-8b21-2ebadb633d8f"
-					(reference "Y2")
 					(unit 1)
 				)
 			)
