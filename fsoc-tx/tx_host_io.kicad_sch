@@ -5,6 +5,164 @@
 	(uuid "13d244bd-e908-4f7a-8588-4193c4e7004f")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names
 				(offset 1.016)
@@ -449,14 +607,14 @@
 		)
 	)
 	(junction
-		(at 113.03 78.74)
+		(at 120.65 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a18fc685-fd14-4ed3-a26d-c9df6404df79")
 	)
 	(wire
 		(pts
-			(xy 125.73 86.36) (xy 125.73 78.74)
+			(xy 133.35 92.71) (xy 133.35 85.09)
 		)
 		(stroke
 			(width 0)
@@ -466,7 +624,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 78.74) (xy 113.03 78.74)
+			(xy 133.35 85.09) (xy 120.65 85.09)
 		)
 		(stroke
 			(width 0)
@@ -476,13 +634,23 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 78.74) (xy 113.03 86.36)
+			(xy 120.65 85.09) (xy 120.65 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2cf1c637-3af8-4127-9103-8838cdbfdf6a")
+	)
+	(wire
+		(pts
+			(xy 157.48 106.68) (xy 162.56 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92de01cb-1939-47a4-ad83-e7be28387d41")
 	)
 	(wire
 		(pts
@@ -496,7 +664,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 74.93) (xy 113.03 78.74)
+			(xy 120.65 81.28) (xy 120.65 85.09)
 		)
 		(stroke
 			(width 0)
@@ -504,9 +672,20 @@
 		)
 		(uuid "cd7c055e-ac2c-4392-90f0-900cade15e0d")
 	)
+	(hierarchical_label "PPS_OUT"
+		(shape input)
+		(at 162.56 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "249f469e-f093-40ef-bd8a-b4431c079eaa")
+	)
 	(hierarchical_label "+3V3_DIG"
 		(shape input)
-		(at 113.03 74.93 90)
+		(at 120.65 81.28 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -539,7 +718,7 @@
 	)
 	(hierarchical_label "HOST_I2C_SCL"
 		(shape bidirectional)
-		(at 125.73 93.98 270)
+		(at 133.35 100.33 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -550,7 +729,7 @@
 	)
 	(hierarchical_label "HOST_I2C_SDA"
 		(shape bidirectional)
-		(at 113.03 93.98 270)
+		(at 120.65 100.33 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -561,7 +740,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 113.03 90.17 0)
+		(at 120.65 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -572,7 +751,7 @@
 		(fields_autoplaced yes)
 		(uuid "1086df4a-40bf-4a7c-88a4-f507edd3d9e0")
 		(property "Reference" "R12"
-			(at 115.57 88.8999 0)
+			(at 123.19 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -583,7 +762,7 @@
 			)
 		)
 		(property "Value" "4.7 kΩ"
-			(at 115.57 91.4399 0)
+			(at 123.19 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -594,7 +773,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 111.252 90.17 90)
+			(at 118.872 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -605,7 +784,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 90.17 0)
+			(at 120.65 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -616,7 +795,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 113.03 90.17 0)
+			(at 120.65 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -643,7 +822,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 125.73 90.17 0)
+		(at 133.35 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -654,7 +833,7 @@
 		(fields_autoplaced yes)
 		(uuid "2bb0407e-68f5-43b7-beb9-e093756cced5")
 		(property "Reference" "R13"
-			(at 128.27 88.8999 0)
+			(at 135.89 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -665,7 +844,7 @@
 			)
 		)
 		(property "Value" "4.7 kΩ"
-			(at 128.27 91.4399 0)
+			(at 135.89 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -676,7 +855,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 123.952 90.17 90)
+			(at 131.572 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -687,7 +866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 90.17 0)
+			(at 133.35 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -698,7 +877,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 125.73 90.17 0)
+			(at 133.35 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -718,6 +897,88 @@
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 167.64 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "baba3a04-5245-4026-9ca4-43ffb20598af")
+		(property "Reference" "J6"
+			(at 170.18 104.1399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 170.18 106.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 167.64 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 167.64 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "716a6cb6-7d4b-4bfd-a22e-114293d28d2e")
+		)
+		(pin "2"
+			(uuid "0a013892-4738-4ebd-bede-e087aff12d7d")
+		)
+		(instances
+			(project "fsoc-tx"
+				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -881,6 +1142,84 @@
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 157.48 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c37af864-71a1-46d2-b3f0-d18f6532c0a7")
+		(property "Reference" "#PWR047"
+			(at 157.48 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6b148c55-a22b-4fbc-92ac-4a0c2d584bac")
+		)
+		(instances
+			(project "fsoc-tx"
+				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
