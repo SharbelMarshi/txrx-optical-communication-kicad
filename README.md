@@ -31,7 +31,7 @@ Two separate \(4\)-layer boards:
 
 ### TX PCB: 
 
-<img src="images/TX-PCB-design.png" alt="pcb design" width="400" /><img src="images/TX-PCB.png" alt="pcb" width="400" />
+<img src="images/TX-PCB-design.png" alt="pcb design" width="390" /><img src="images/TX-PCB.png" alt="pcb" width="400" />
 
 ### RX schamtics:
 
@@ -39,7 +39,7 @@ Two separate \(4\)-layer boards:
 
 ### RX PCB: 
 
-<img src="images/RX-PCB-design.png" alt="pcb design" width="400" /><img src="images/RX-PCB.png" alt="pcb" width="400" />
+<img src="images/RX-PCB-design.png" alt="pcb design" width="390" /><img src="images/RX-PCB.png" alt="pcb" width="405" />
 
 ## Library:
 ### Pre-built Components Compatibility Verfication:
