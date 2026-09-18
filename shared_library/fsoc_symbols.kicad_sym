@@ -2333,7 +2333,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "TBD - SiT5346 10MHz DCTCXO configuration"
+		(property "Manufacturer Part Number" "TBD - SiT5346 10MHz 3.3V LVCMOS DCTCXO"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
