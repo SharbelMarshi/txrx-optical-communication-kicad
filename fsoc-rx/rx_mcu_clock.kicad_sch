@@ -2619,7 +2619,7 @@
 					)
 				)
 			)
-			(property "Manufacturer Part Number" "TBD - SiT5346 10MHz DCTCXO configuration"
+			(property "MPN" "TBD - SiT5346 10MHz 3.3V LVCMOS DCTCXO"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7242,7 +7242,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "TBD - SiT5346 10MHz DCTCXO configuration"
+		(property "JLCPCB Part" "TBD - Global Sourcing if not stocked"
 			(at 209.55 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -7253,7 +7253,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part" "TBD - Global Sourcing if not stocked"
+		(property "MPN" "TBD - SiT5346 10MHz 3.3V LVCMOS DCTCXO"
 			(at 209.55 146.05 0)
 			(hide yes)
 			(show_name no)

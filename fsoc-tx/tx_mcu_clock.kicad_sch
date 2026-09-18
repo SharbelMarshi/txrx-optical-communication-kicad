@@ -2597,7 +2597,7 @@
 					)
 				)
 			)
-			(property "Description" "10-pin 5.0x3.2 mm precision DCTCXO, I2C-controlled, LVCMOS clock output"
+			(property "Description" "SiT5346 DCTCXO, 10.000000 MHz, 3.3 V, LVCMOS, ±0.1 ppm, industrial, I2C-controlled"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2609,6 +2609,28 @@
 				)
 			)
 			(property "Manufacturer" "SiTime"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "TBD - SiT5346 10MHz 3.3V LVCMOS DCTCXO"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "JLCPCB Part" "TBD - Global Sourcing if not stocked"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -8585,7 +8607,7 @@
 				)
 			)
 		)
-		(property "Description" "10-pin 5.0x3.2 mm precision DCTCXO, I2C-controlled, LVCMOS clock output"
+		(property "Description" "SiT5346 DCTCXO, 10.000000 MHz, 3.3 V, LVCMOS, ±0.1 ppm, industrial, I2C-controlled"
 			(at 223.52 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8597,6 +8619,28 @@
 			)
 		)
 		(property "Manufacturer" "SiTime"
+			(at 223.52 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TBD - SiT5346 10MHz 3.3V LVCMOS DCTCXO"
+			(at 223.52 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "TBD - Global Sourcing if not stocked"
 			(at 223.52 110.49 0)
 			(hide yes)
 			(show_name no)
