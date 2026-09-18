@@ -5,7 +5,7 @@ Both boards include USB-C, UART, SWD, a local $12 \mathrm{MHz}$ crystal, and a $
 
 
 ## Architecture
-Two separate \(4\)-layer boards:
+Two separate $4$ layer boards:
 - TX: RP2354A + USB-C + host I/O + $12 \mathrm{MHz}$ crystal + $10 \mathrm{MHz}$ SiT5346 DCTCXO + dedicated $1\mathrm{PPS}$ output + laser driver/safety chain + laser module.
 - RX: RP2354A + USB-C + host I/O + $12 \mathrm{MHz}$ crystal + $10 \mathrm{MHz}$ SiT5346 DCTCXO + dedicated $1\mathrm{PPS}$ output + BPW34 / OPA320 / TLV3201 optical receiver + ADC monitor.
 
