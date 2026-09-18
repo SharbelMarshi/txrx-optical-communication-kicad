@@ -7,6 +7,16 @@
 	(lib_symbols)
 	(wire
 		(pts
+			(xy 82.55 107.95) (xy 85.09 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "203101b3-42a8-40dc-9591-b23100e8908e")
+	)
+	(wire
+		(pts
 			(xy 82.55 100.33) (xy 85.09 100.33)
 		)
 		(stroke
@@ -605,6 +615,16 @@
 		)
 		(uuid "c948d2e6-9774-4382-80ab-db93c1fc3705")
 	)
+	(label "PPS_OUT"
+		(at 82.55 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cad9afee-d09e-47c6-ab22-f8fb1047eabd")
+	)
 	(label "UART_DEBUG_TX"
 		(at 82.55 105.41 180)
 		(effects
@@ -677,7 +697,7 @@
 	)
 	(sheet
 		(at 85.09 95.25)
-		(size 41.91 12.7)
+		(size 41.91 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -703,7 +723,7 @@
 			)
 		)
 		(property "Sheetfile" "rx_host_io.kicad_sch"
-			(at 85.09 108.5346 0)
+			(at 85.09 111.0746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -761,6 +781,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "PPS_OUT" input
+			(at 85.09 107.95 180)
+			(uuid "5d31945f-01e7-40ba-8ffd-515319e985a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances

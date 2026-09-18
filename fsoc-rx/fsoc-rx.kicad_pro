@@ -76,7 +76,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|170698804|78416766|04dbeaf7-7551-4505-ae11-ff83bf3b08e3|1f75a613-423a-4176-8378-69b04fed9486",
+          ""
+        ],
+        [
+          "copper_edge_clearance|170698804|88583233|278a3a81-c81f-485a-94cc-cbe8dbcb9de5|8b1bf9b2-cad6-47b5-8a3e-98ec070fe899",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -743,7 +752,7 @@
         "uuid": "84f983f4-ce6f-4382-bffe-129758307136"
       }
     ],
-    "used_designators": "J1-4,Cf1,#FLG1-4,#PWR1-47,D1,Y1-2,Rf1,L1,C1-27,SW1-2,U1-6,R1-14,JP1",
+    "used_designators": "J1-5,Cf1,#FLG1-4,Y1-2,#PWR1-50,D1,Rf1,L1,U1-6,SW1-2,C1-27,C29,JP1,R1-14",
     "variants": []
   },
   "sheets": [

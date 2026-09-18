@@ -812,6 +812,12 @@
 			(uuid "08e3ce31-57cd-4a83-86f3-2a87ab323ab8")
 		)
 		(instances
+			(project "tx_host_io"
+				(path "/13d244bd-e908-4f7a-8588-4193c4e7004f"
+					(reference "R12")
+					(unit 1)
+				)
+			)
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "R12")
@@ -894,6 +900,12 @@
 			(uuid "752c54a4-5775-4e5d-9c74-29e085d96425")
 		)
 		(instances
+			(project "tx_host_io"
+				(path "/13d244bd-e908-4f7a-8588-4193c4e7004f"
+					(reference "R13")
+					(unit 1)
+				)
+			)
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "R13")
@@ -976,6 +988,12 @@
 			(uuid "0a013892-4738-4ebd-bede-e087aff12d7d")
 		)
 		(instances
+			(project "tx_host_io"
+				(path "/13d244bd-e908-4f7a-8588-4193c4e7004f"
+					(reference "J6")
+					(unit 1)
+				)
+			)
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "J6")
@@ -1061,6 +1079,12 @@
 			(uuid "c166d501-f47f-4135-be17-dc16d2e3c984")
 		)
 		(instances
+			(project "tx_host_io"
+				(path "/13d244bd-e908-4f7a-8588-4193c4e7004f"
+					(reference "J5")
+					(unit 1)
+				)
+			)
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "J5")
@@ -1139,6 +1163,12 @@
 			(uuid "ed134eb6-4e03-4e34-ba46-9d357b7522fc")
 		)
 		(instances
+			(project "tx_host_io"
+				(path "/13d244bd-e908-4f7a-8588-4193c4e7004f"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "#PWR044")
@@ -1217,6 +1247,12 @@
 			(uuid "6b148c55-a22b-4fbc-92ac-4a0c2d584bac")
 		)
 		(instances
+			(project "tx_host_io"
+				(path "/13d244bd-e908-4f7a-8588-4193c4e7004f"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/de1ed7cc-4a66-440d-ba62-c10288bf4fb2"
 					(reference "#PWR047")
@@ -1225,4 +1261,10 @@
 			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
