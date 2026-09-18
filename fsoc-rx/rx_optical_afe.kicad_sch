@@ -1821,6 +1821,28 @@
 				)
 			)
 		)
+		(property "MPN:" ""
+			(at 185.42 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 185.42 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c9f3c182-830a-4b4d-a20b-105dc8267a7f")
 		)
@@ -1969,6 +1991,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 148.59 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 148.59 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 148.59 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2214,6 +2258,28 @@
 				)
 			)
 		)
+		(property "MPN:" ""
+			(at 161.29 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 161.29 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c17ba031-158e-4c2f-b45a-a861c50b7405")
 		)
@@ -2286,6 +2352,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
 			(at 110.49 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2376,7 +2464,7 @@
 				)
 			)
 		)
-		(property "Manufacturer:" "Vishay Semiconductors"
+		(property "Manufacturer" "Vishay Semiconductors"
 			(at 111.76 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2387,7 +2475,29 @@
 				)
 			)
 		)
-		(property "MPN:" "BPW34"
+		(property "MPN" "BPW34"
+			(at 111.76 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 111.76 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
 			(at 111.76 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2478,6 +2588,28 @@
 				)
 			)
 		)
+		(property "MPN:" ""
+			(at 165.1 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 165.1 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1e1f7cc-7c62-45fb-8eb3-6d8894356dd4")
 		)
@@ -2549,6 +2681,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 104.14 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 104.14 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
 			(at 104.14 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2707,6 +2861,28 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 148.59 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 148.59 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 148.59 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2896,6 +3072,28 @@
 				)
 			)
 		)
+		(property "MPN:" ""
+			(at 181.61 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 181.61 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "f75ec720-2d2a-49c6-b6dc-ede084e974d9")
 		)
@@ -2987,6 +3185,28 @@
 				)
 			)
 		)
+		(property "MPN:" ""
+			(at 128.27 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 128.27 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "09533ea9-ec97-4ee0-9c2b-99937717bb5d")
 		)
@@ -3057,6 +3277,28 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 176.53 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 176.53 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 176.53 81.28 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3159,6 +3401,28 @@
 		)
 		(property "MPN" "OPA320AIDBVR"
 			(at 135.128 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 135.89 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 135.89 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3326,6 +3590,28 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 129.54 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 129.54 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 129.54 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

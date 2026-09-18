@@ -561,6 +561,28 @@
 				)
 			)
 		)
+		(property "MPN:" ""
+			(at 146.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 146.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b9847d1f-5aa9-49da-a3b6-dce42bf83a64")
 		)
@@ -710,6 +732,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 134.62 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN:" ""
+			(at 134.62 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer:" ""
+			(at 134.62 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

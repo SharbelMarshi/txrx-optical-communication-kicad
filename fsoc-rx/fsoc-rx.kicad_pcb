@@ -145,9 +145,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Manufacturing/RX/")
 		)
 	)
 	(footprint "fsoc_footprints:ABM8-272-T3_3225"
