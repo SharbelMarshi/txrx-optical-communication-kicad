@@ -76,7 +76,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|171198804|75916766|8e0fce5b-65e4-4615-b6ab-41a145831913|60915f7e-f8d5-413d-be67-450bd8c06462",
+          ""
+        ],
+        [
+          "copper_edge_clearance|171198804|86083233|9d4facc1-3137-424a-86a9-6c4fe3d1f1c6|e85ff09a-9480-41fb-9f13-53acc5a1f4d3",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -620,7 +629,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "FSOC_TX_BOM.csv",
+    "bom_export_filename": "../Manufacturing/TX/fsoc-tx.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
