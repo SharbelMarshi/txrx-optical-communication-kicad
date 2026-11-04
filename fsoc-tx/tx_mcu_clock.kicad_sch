@@ -6736,7 +6736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm_ThermalVias"
+		(property "Footprint" "fsoc_footprints:RP2354A_ThermalVia_0p30"
 			(at 156.21 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6747,7 +6747,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf"
+		(property "Datasheet" ""
 			(at 156.21 86.36 0)
 			(hide yes)
 			(show_name no)

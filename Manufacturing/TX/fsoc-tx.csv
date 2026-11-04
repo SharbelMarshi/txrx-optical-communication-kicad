@@ -24,7 +24,7 @@
 "SW3","1","SW_DPST","fsoc_footprints:ES22MCBE","","Double Pole Single Throw (DPST) Switch","",""
 "U1","1","USBLC6-2SC6","Package_TO_SOT_SMD:SOT-23-6","","Very low capacitance ESD protection diode, 2 data-line, SOT-23-6","",""
 "U2","1","AP2112K-3.3","Package_TO_SOT_SMD:SOT-23-5","","600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5","",""
-"U3","1","RP2354A","Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm_ThermalVias","","A microcontroller by Raspberry Pi, dual CPU architecture (ARM Cortex-M33 / RISC-V Hazard3), 150MHz, 2MB flash, 520KB SRAM, 12 PIO state machines, VQFN-60","",""
+"U3","1","RP2354A","fsoc_footprints:RP2354A_ThermalVia_0p30","","A microcontroller by Raspberry Pi, dual CPU architecture (ARM Cortex-M33 / RISC-V Hazard3), 150MHz, 2MB flash, 520KB SRAM, 12 PIO state machines, VQFN-60","",""
 "U4","1","74AHCT1G125","Package_TO_SOT_SMD:SOT-23-5","","Single Buffer Gate Tri-State, Low-Voltage CMOS","",""
 "U5","1","TPS22919DCK","Package_TO_SOT_SMD:SOT-363_SC-70-6","","1.6V to 5.5 V, 1.5 A, 90-mΩ Self-Protected Load Switch with Controlled Rise Time, SC-70-6","",""
 "Y1","1","ABM8-272-T3","fsoc_footprints:ABM8-272-T3_3225","Abracon","12 MHz crystal, 10 pF load capacitance, 50 ohm max ESR, 3.2 x 2.5 mm 4-pad SMD","ABM8-272-T3",""
