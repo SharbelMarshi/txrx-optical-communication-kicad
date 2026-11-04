@@ -4,7 +4,7 @@
 "C6,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C21,C24","13","100 nF","Capacitor_SMD:C_0603_1608Metric","","Unpolarized capacitor","",""
 "C18,C19","2","15 pF","Capacitor_SMD:C_0603_1608Metric","","Unpolarized capacitor","",""
 "C25","1","10 µF","Capacitor_SMD:C_0805_2012Metric","","Unpolarized capacitor","",""
-"J1","1","USB4105-GF-A","fsoc_footprints:TYPE-C-31-M-14","GCT","USB 2.0 Type-C receptacle, 16 contact, top-mount horizontal, through-hole shell stakes","USB4105-GF-A",""
+"J1","1","USB_C_HH_16P_Y495","fsoc_footprints:USB_C_HH_16P_Y495","GCT","USB 2.0 Type-C receptacle, 16 contact, top-mount horizontal, through-hole shell stakes","USB4105-GF-A",""
 "J2","1","B8B-PH-K-S","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical","JST","8-position JST PH series vertical through-hole wire-to-board header, 2.00 mm pitch","B8B-PH-K-S",""
 "J3","1","FTSH-105-01-L-DV-K","fsoc_footprints:FTSH-105-01-L-DV-K","Samtec","10-pin 1.27 mm keyed vertical SMT header for ARM Cortex SWD/JTAG debug interface","FTSH-105-01-L-DV-K",""
 "J4","1","B3B-PH-K-S","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","JST","3-position JST PH series vertical through-hole wire-to-board header, 2.00 mm pitch","B3B-PH-K-S",""

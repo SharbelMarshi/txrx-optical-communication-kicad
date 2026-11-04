@@ -1549,7 +1549,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "fsoc_symbols:USB4105-GF-A"
+		(symbol "fsoc_symbols:USB_C_HH_16P_Y495"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1568,7 +1568,7 @@
 					)
 				)
 			)
-			(property "Value" "USB4105-GF-A"
+			(property "Value" "USB_C_HH_16P_Y495"
 				(at 0 19.685 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1578,7 +1578,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+			(property "Footprint" "fsoc_footprints:USB_C_HH_16P_Y495"
 				(at 3.81 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1589,7 +1589,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://gct.co/files/drawings/usb4105.pdf"
+			(property "Datasheet" ""
 				(at 3.81 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1633,17 +1633,6 @@
 					)
 				)
 			)
-			(property "ki_keywords" "usb universal serial bus type-C USB2.0"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(property "ki_fp_filters" "USB*C*Receptacle*"
 				(at 0 0 0)
 				(show_name no)
@@ -1655,7 +1644,7 @@
 					)
 				)
 			)
-			(symbol "USB4105-GF-A_0_0"
+			(symbol "USB_C_HH_16P_Y495_0_0"
 				(rectangle
 					(start -0.254 -17.78)
 					(end 0.254 -16.764)
@@ -1767,7 +1756,7 @@
 					)
 				)
 			)
-			(symbol "USB4105-GF-A_0_1"
+			(symbol "USB_C_HH_16P_Y495_0_1"
 				(rectangle
 					(start -10.16 17.78)
 					(end 10.16 -17.78)
@@ -1968,7 +1957,7 @@
 					)
 				)
 			)
-			(symbol "USB4105-GF-A_1_1"
+			(symbol "USB_C_HH_16P_Y495_1_1"
 				(pin passive line
 					(at 0 -22.86 90)
 					(length 5.08)
@@ -4481,7 +4470,7 @@
 		)
 	)
 	(symbol
-		(lib_id "fsoc_symbols:USB4105-GF-A")
+		(lib_id "fsoc_symbols:USB_C_HH_16P_Y495")
 		(at 82.55 82.55 0)
 		(unit 1)
 		(body_style 1)
@@ -4502,7 +4491,7 @@
 				)
 			)
 		)
-		(property "Value" "USB4105-GF-A"
+		(property "Value" "USB_C_HH_16P_Y495"
 			(at 82.55 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4512,7 +4501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "fsoc_footprints:TYPE-C-31-M-14"
+		(property "Footprint" "fsoc_footprints:USB_C_HH_16P_Y495"
 			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -4523,7 +4512,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://gct.co/files/drawings/usb4105.pdf"
+		(property "Datasheet" ""
 			(at 86.36 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -4591,7 +4580,7 @@
 		(pin "A8"
 			(uuid "abe3f516-e691-497e-8a7a-907626a2812c")
 		)
-		(pin "A4"
+		(pin "A9"
 			(uuid "79ddad07-85b6-4a0c-8349-c3f79f1923e4")
 		)
 		(pin "B8"
@@ -4600,10 +4589,10 @@
 		(pin "B7"
 			(uuid "c790b4a9-dc63-46b3-879d-4295394891a1")
 		)
-		(pin "A1"
+		(pin "A12"
 			(uuid "aaf693a3-7530-491d-a2ae-a5643ff84858")
 		)
-		(pin "A12"
+		(pin "A4"
 			(uuid "1cee188c-19ab-40fe-b340-64f84a3eac6b")
 		)
 		(pin "B9"
@@ -4612,7 +4601,7 @@
 		(pin "B1"
 			(uuid "5d737cc0-bd72-4b9a-94c2-02c25d1a01f8")
 		)
-		(pin "A9"
+		(pin "A1"
 			(uuid "e4db0503-270b-4ca4-b863-14ef1e603178")
 		)
 		(pin "B6"

@@ -76,16 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "copper_edge_clearance|171198804|75916766|8e0fce5b-65e4-4615-b6ab-41a145831913|60915f7e-f8d5-413d-be67-450bd8c06462",
-          ""
-        ],
-        [
-          "copper_edge_clearance|171198804|86083233|9d4facc1-3137-424a-86a9-6c4fe3d1f1c6|e85ff09a-9480-41fb-9f13-53acc5a1f4d3",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -159,7 +150,7 @@
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.25,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.2,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
@@ -783,7 +774,7 @@
         "uuid": "d92cb11a-a3ee-43a3-bd30-881774176ced"
       }
     ],
-    "used_designators": "MOD1,SW1-3,L1,JP1-2,R1-13,C1-25,#PWR1-50,J1-6,Y1-3,U1-5,#FLG1-4",
+    "used_designators": "#FLG1-4,U1-5,Y1-3,J1-6,#PWR1-50,C1-25,R1-13,JP1-2,L1,SW1-3,MOD1",
     "variants": []
   },
   "sheets": [
