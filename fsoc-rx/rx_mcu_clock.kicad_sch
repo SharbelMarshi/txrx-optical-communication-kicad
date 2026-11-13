@@ -4731,8 +4731,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 130.81 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 130.81 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4742,8 +4742,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 130.81 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 130.81 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 130.81 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4860,8 +4871,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 204.47 90.17 90)
+		(property "Manufacturer" "YAGEO"
+			(at 204.47 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4871,8 +4882,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 204.47 90.17 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 204.47 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 204.47 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4926,7 +4948,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ABM8-272-T3"
+		(property "Value" "X322512MMB4SI"
 			(at 85.09 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4959,7 +4981,7 @@
 				)
 			)
 		)
-		(property "Description" "12 MHz crystal, 10 pF load capacitance, 50 ohm max ESR, 3.2 x 2.5 mm 4-pad SMD"
+		(property "Description" "12 MHz crystal, 10 pF load, ±10 ppm, 80 ohm max ESR, 3.2 x 2.5 mm 4-pad SMD"
 			(at 80.01 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4970,7 +4992,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Abracon"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 80.01 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -4981,7 +5003,7 @@
 				)
 			)
 		)
-		(property "MPN" "ABM8-272-T3"
+		(property "MPN" "X322512MMB4SI"
 			(at 80.01 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5014,19 +5036,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 80.01 109.22 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 80.01 109.22 90)
+		(property "JLCPCB Part" "C50430"
+			(at 80.01 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5149,8 +5160,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 140.97 29.21 90)
+		(property "Manufacturer" "Abracon"
+			(at 140.97 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5160,8 +5171,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 140.97 29.21 90)
+		(property "MPN" "AOTA-B201610S3R3-101-T"
+			(at 140.97 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C42411119"
+			(at 140.97 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5278,8 +5300,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 119.38 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 119.38 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5289,8 +5311,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 119.38 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 119.38 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 119.38 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5575,8 +5608,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 143.51 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 143.51 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5586,8 +5619,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 143.51 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 143.51 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 143.51 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5705,8 +5749,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 213.36 119.38 90)
+		(property "Manufacturer" "YAGEO"
+			(at 213.36 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5716,8 +5760,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 213.36 119.38 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 213.36 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 213.36 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6167,7 +6222,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 80.01 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6178,7 +6233,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL10C150JB8NNNC"
+			(at 80.01 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1644"
 			(at 80.01 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6299,7 +6365,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 80.01 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6310,7 +6376,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL10C150JB8NNNC"
+			(at 80.01 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1644"
 			(at 80.01 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6512,8 +6589,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 204.47 80.01 90)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 204.47 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6523,8 +6600,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 204.47 80.01 90)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 204.47 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
+			(at 204.47 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6725,8 +6813,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 104.14 31.75 90)
+		(property "Manufacturer" "YAGEO"
+			(at 104.14 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6736,8 +6824,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 104.14 31.75 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 104.14 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 104.14 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6854,8 +6953,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 85.09 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 85.09 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6865,8 +6964,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 85.09 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 85.09 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 85.09 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7067,8 +7177,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 154.94 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 154.94 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7078,8 +7188,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 154.94 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 154.94 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 154.94 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7199,7 +7320,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 88.9 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7210,7 +7331,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 88.9 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
 			(at 88.9 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7328,8 +7460,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 96.52 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 96.52 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7339,8 +7471,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 96.52 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 96.52 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 96.52 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7472,6 +7615,39 @@
 			)
 		)
 		(property "Manufacturer:" ""
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Raspberry Pi"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RP2354A"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C41378174"
 			(at 127 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -7968,28 +8144,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 209.55 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 209.55 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "5"
 			(uuid "2ba4103f-5434-479f-a18e-278998bbc698")
 		)
@@ -8115,7 +8269,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "C&K"
 			(at 73.66 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8126,7 +8280,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "PTS645SM43SMTR92 LFS"
+			(at 73.66 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C221880"
 			(at 73.66 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8496,8 +8661,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 83.82 43.18 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 83.82 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8507,8 +8672,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 83.82 43.18 90)
+		(property "MPN" "0603WAF330JT5E"
+			(at 83.82 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23140"
+			(at 83.82 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8787,8 +8963,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 166.37 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 166.37 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8798,8 +8974,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 166.37 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 166.37 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 166.37 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8994,8 +9181,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 87.63 83.82 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 87.63 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9005,8 +9192,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 87.63 83.82 90)
+		(property "MPN" "0603WAF1001T5E"
+			(at 87.63 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C21190"
+			(at 87.63 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9369,8 +9567,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 95.25 114.3 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 95.25 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9380,8 +9578,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 95.25 114.3 90)
+		(property "MPN" "0603WAF1001T5E"
+			(at 95.25 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C21190"
+			(at 95.25 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9750,8 +9959,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 107.95 152.4 90)
+		(property "Manufacturer" "YAGEO"
+			(at 107.95 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9761,8 +9970,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 107.95 152.4 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 107.95 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 107.95 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9882,7 +10102,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 81.28 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -9893,7 +10113,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 81.28 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
 			(at 81.28 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -10011,8 +10242,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 204.47 69.85 90)
+		(property "Manufacturer" "YAGEO"
+			(at 204.47 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10022,8 +10253,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 204.47 69.85 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 204.47 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 204.47 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10140,8 +10382,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 91.44 72.39 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 91.44 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10151,8 +10393,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 91.44 72.39 90)
+		(property "MPN" "0603WAF270JT5E"
+			(at 91.44 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25190"
+			(at 91.44 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10291,7 +10544,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FTSH-105-01-L-DV-K"
+		(property "Value" "FTSH-105-01-F-DV-K"
 			(at 194.31 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10346,7 +10599,7 @@
 				)
 			)
 		)
-		(property "MPN" "FTSH-105-01-L-DV-K"
+		(property "MPN" "FTSH-105-01-F-DV-K"
 			(at 205.74 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -10379,18 +10632,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 205.74 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "JLCPCB Part" "C5382952"
 			(at 205.74 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -10532,8 +10774,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 91.44 77.47 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 91.44 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10543,8 +10785,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 91.44 77.47 90)
+		(property "MPN" "0603WAF270JT5E"
+			(at 91.44 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25190"
+			(at 91.44 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10662,8 +10915,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 213.36 130.81 90)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 213.36 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10673,8 +10926,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 213.36 130.81 90)
+		(property "MPN" "CL21A106KAYNNNE"
+			(at 213.36 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C15850"
+			(at 213.36 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10788,7 +11052,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 157.48 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10799,7 +11063,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 157.48 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
 			(at 157.48 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11086,7 +11361,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "C&K"
 			(at 71.12 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11097,7 +11372,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "PTS645SM43SMTR92 LFS"
+			(at 71.12 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C221880"
 			(at 71.12 66.04 0)
 			(hide yes)
 			(show_name no)

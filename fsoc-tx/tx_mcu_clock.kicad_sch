@@ -4603,6 +4603,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 229.87 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21A106KAYNNNE"
+			(at 229.87 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C15850"
+			(at 229.87 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "51a04f95-958f-49d8-988f-93100e339ff6")
 		)
@@ -4760,6 +4793,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 156.21 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 156.21 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 156.21 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c88081c5-0e3f-48bd-848a-1b9d876c14b3")
 		)
@@ -4839,6 +4905,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 63.5 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 63.5 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 63.5 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ca6ee619-e408-48b4-a270-5dcbb233adf6")
 		)
@@ -4877,7 +4976,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ABM8-272-T3"
+		(property "Value" "X322512MMB4SI"
 			(at 114.3 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4910,7 +5009,7 @@
 				)
 			)
 		)
-		(property "Description" "12 MHz crystal, 10 pF load capacitance, 50 ohm max ESR, 3.2 x 2.5 mm 4-pad SMD"
+		(property "Description" "12 MHz crystal, 10 pF load, ±10 ppm, 80 ohm max ESR, 3.2 x 2.5 mm 4-pad SMD"
 			(at 109.22 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4921,7 +5020,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Abracon"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 109.22 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -4932,7 +5031,18 @@
 				)
 			)
 		)
-		(property "MPN" "ABM8-272-T3"
+		(property "MPN" "X322512MMB4SI"
+			(at 109.22 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C50430"
 			(at 109.22 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5028,6 +5138,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Abracon"
+			(at 170.18 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AOTA-B201610S3R3-101-T"
+			(at 170.18 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C42411119"
+			(at 170.18 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6cba0739-cd1f-4f95-b536-1dc2580f71a4")
 		)
@@ -5097,6 +5240,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 144.78 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 144.78 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 144.78 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
 			(at 144.78 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -5265,6 +5441,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 229.87 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 229.87 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 229.87 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f7d6f69c-0329-45d4-95c8-47663ade268d")
 		)
@@ -5412,6 +5621,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 168.91 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 168.91 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 168.91 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
 			(at 168.91 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -5894,6 +6136,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10C150JB8NNNC"
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1644"
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eeb67e7b-f1c5-46f8-ab27-ed4d83207bee")
 		)
@@ -5966,6 +6241,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 109.22 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 109.22 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10C150JB8NNNC"
+			(at 109.22 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1644"
 			(at 109.22 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6133,6 +6441,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 63.5 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 63.5 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
+			(at 63.5 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "98eaa90f-597e-49c7-8d8b-03d517a9be7a")
 		)
@@ -6290,6 +6631,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 203.2 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 203.2 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 203.2 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ee5ac004-734a-4cfc-9c3a-581622c11315")
 		)
@@ -6359,6 +6733,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 110.49 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 110.49 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 110.49 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
 			(at 110.49 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -6526,6 +6933,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 180.34 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 180.34 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 180.34 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b2b7d398-0a95-4db2-bfad-2072545c9c88")
 		)
@@ -6598,6 +7038,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 118.11 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 118.11 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 118.11 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
 			(at 118.11 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -6687,6 +7160,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 121.92 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 121.92 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 121.92 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4b04cf8b-0d0f-451c-8498-4c89283570ac")
 		)
@@ -6759,6 +7265,39 @@
 			)
 		)
 		(property "Description" "A microcontroller by Raspberry Pi, dual CPU architecture (ARM Cortex-M33 / RISC-V Hazard3), 150MHz, 2MB flash, 520KB SRAM, 12 PIO state machines, VQFN-60"
+			(at 156.21 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Raspberry Pi"
+			(at 156.21 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RP2354A"
+			(at 156.21 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C41378174"
 			(at 156.21 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7281,6 +7820,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "C&K"
+			(at 102.87 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PTS645SM43SMTR92 LFS"
+			(at 102.87 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C221880"
+			(at 102.87 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d87b8163-138a-4c95-a336-c5ecf8dcd6fc")
 		)
@@ -7594,6 +8166,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 113.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF330JT5E"
+			(at 113.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23140"
+			(at 113.03 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b43bb75f-af0b-4fa7-b0db-0ee1a8b53c8a")
 		)
@@ -7751,6 +8356,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 191.77 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 191.77 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 191.77 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "07871a28-e1c3-43ba-89cb-23d3baae6c20")
 		)
@@ -7820,6 +8458,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 116.84 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 116.84 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1001T5E"
+			(at 116.84 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C21190"
 			(at 116.84 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -8055,6 +8726,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 124.46 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 124.46 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1001T5E"
+			(at 124.46 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C21190"
 			(at 124.46 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -8456,6 +9160,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 133.35 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 133.35 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 133.35 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d1709366-485c-44d3-8bbf-f4370fd4c739")
 		)
@@ -8528,6 +9265,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 125.73 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 125.73 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 125.73 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
 			(at 125.73 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8754,6 +9524,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 63.5 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 63.5 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 63.5 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "56c953c1-9f5c-4214-b72c-445aba7c2131")
 		)
@@ -8823,6 +9626,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 120.65 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF270JT5E"
+			(at 120.65 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25190"
 			(at 120.65 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8950,7 +9786,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FTSH-105-01-L-DV-K"
+		(property "Value" "FTSH-105-01-F-DV-K"
 			(at 57.15 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9005,7 +9841,18 @@
 				)
 			)
 		)
-		(property "MPN" "FTSH-105-01-L-DV-K"
+		(property "MPN" "FTSH-105-01-F-DV-K"
+			(at 68.58 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C5382952"
 			(at 68.58 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -9119,6 +9966,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 120.65 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF270JT5E"
+			(at 120.65 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25190"
+			(at 120.65 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f2c2dd9f-6699-4cdc-b9a0-34890918b5e2")
 		)
@@ -9191,6 +10071,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 186.69 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 186.69 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 186.69 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1779"
 			(at 186.69 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9427,6 +10340,39 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 100.33 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 100.33 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PTS645SM43SMTR92 LFS"
+			(at 100.33 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C221880"
 			(at 100.33 63.5 0)
 			(hide yes)
 			(show_name no)

@@ -5,6 +5,129 @@
 	(uuid "c1701b53-674b-40bc-90a8-b6d2ae73d281")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1159,16 +1282,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 90.17) (xy 165.1 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1215ac0a-58db-4540-9b68-2b5ad666c7be")
-	)
-	(wire
-		(pts
 			(xy 144.78 100.33) (xy 142.24 100.33)
 		)
 		(stroke
@@ -1286,16 +1399,6 @@
 			(type default)
 		)
 		(uuid "511e5b93-f5fb-4af5-92b4-9c44a5f9d8ee")
-	)
-	(wire
-		(pts
-			(xy 156.21 100.33) (xy 175.26 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b86225d-a7a7-4347-a233-8e7cf91589a6")
 	)
 	(wire
 		(pts
@@ -1843,8 +1946,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 185.42 91.44 90)
+		(property "Manufacturer" "YAGEO"
+			(at 185.42 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1854,8 +1957,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 185.42 91.44 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 185.42 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 185.42 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1979,7 +2093,7 @@
 				)
 			)
 		)
-		(property "Value" "100 kΩ"
+		(property "Value" "10 kΩ"
 			(at 148.59 104.648 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2044,8 +2158,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 148.59 106.68 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 148.59 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2055,8 +2169,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 148.59 106.68 90)
+		(property "MPN" "0603WAF1002T5E"
+			(at 148.59 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25804"
+			(at 148.59 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2259,7 +2384,7 @@
 				)
 			)
 		)
-		(property "Value" "10 kΩ"
+		(property "Value" "2.2 MΩ"
 			(at 161.29 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2324,8 +2449,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 161.29 81.28 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 161.29 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2335,8 +2460,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 161.29 81.28 90)
+		(property "MPN" "0603WAF2204T5E"
+			(at 161.29 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C22938"
+			(at 161.29 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2450,7 +2586,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 110.49 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2461,7 +2597,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "0603WAF1002T5E"
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25804"
 			(at 110.49 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2552,7 +2699,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Vishay Semiconductors"
+		(property "Manufacturer" "Vishay"
 			(at 111.76 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2596,18 +2743,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 111.76 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "JLCPCB Part" "C85128"
 			(at 111.76 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2655,7 +2791,7 @@
 				)
 			)
 		)
-		(property "Value" "11 kΩ"
+		(property "Value" "100 kΩ"
 			(at 161.29 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2720,8 +2856,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 165.1 86.36 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 165.1 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2731,8 +2867,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 165.1 86.36 90)
+		(property "MPN" "0603WAF1003T5E"
+			(at 165.1 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25803"
+			(at 165.1 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2845,7 +2992,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 104.14 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2856,7 +3003,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "0603WAF1002T5E"
+			(at 104.14 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25804"
 			(at 104.14 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2981,7 +3139,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3 pF"
+		(property "Value" "10 pF"
 			(at 148.59 117.856 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3046,8 +3204,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 148.59 114.3 90)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 148.59 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3057,8 +3215,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 148.59 114.3 90)
+		(property "MPN" "CL10C100JB8NNNC"
+			(at 148.59 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C1634"
+			(at 148.59 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3078,84 +3247,6 @@
 			(project "fsoc-rx"
 				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
 					(reference "C28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 165.1 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "97402e46-137a-427e-a2e1-9e25bf048378")
-		(property "Reference" "#PWR043"
-			(at 165.1 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 165.1 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "76a5b28b-5f3a-492e-bade-985b3e1d2d24")
-		)
-		(instances
-			(project "fsoc-rx"
-				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
-					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -3270,18 +3361,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 181.61 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "JLCPCB Part" "C105188"
 			(at 181.61 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -3405,7 +3485,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 128.27 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3416,7 +3496,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 128.27 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
 			(at 128.27 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3463,7 +3554,7 @@
 				)
 			)
 		)
-		(property "Value" "100 nF"
+		(property "Value" "10 nF"
 			(at 176.53 84.836 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3528,8 +3619,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 176.53 81.28 90)
+		(property "Manufacturer" "FH (Guangdong Fenghua)"
+			(at 176.53 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3539,8 +3630,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 176.53 81.28 90)
+		(property "MPN" "0603B103K500NT"
+			(at 176.53 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C57112"
+			(at 176.53 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3674,18 +3776,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 135.89 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "JLCPCB Part" "C92494"
 			(at 135.89 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3885,8 +3976,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 129.54 91.44 90)
+		(property "Manufacturer" "YAGEO"
+			(at 129.54 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3896,8 +3987,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 129.54 91.44 90)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 129.54 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 129.54 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3946,7 +4048,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 181.61 109.22 0)
+			(at 181.61 106.426 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3995,6 +4097,579 @@
 			(project "fsoc-rx"
 				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 156.21 100.33) (xy 167.64 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2084defc-48bc-427d-bb0c-f8b51accdc13")
+	)
+	(wire
+		(pts
+			(xy 165.1 90.17) (xy 165.1 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deecf9a6-88e3-4493-8da8-a9e08c7e30df")
+	)
+	(wire
+		(pts
+			(xy 175.26 100.33) (xy 175.26 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4d7201d-6f8d-4f5d-9efe-3b0609bf2a10")
+	)
+	(wire
+		(pts
+			(xy 175.26 109.22) (xy 177.8 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26797154-49cd-4b78-ba0e-bd2906ed77b5")
+	)
+	(wire
+		(pts
+			(xy 185.42 109.22) (xy 187.96 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3cb79ab-f077-463e-adcc-ddbcda8bc26d")
+	)
+	(wire
+		(pts
+			(xy 187.96 109.22) (xy 187.96 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daffa413-6b16-46c8-bb29-f4c9bbbd8d77")
+	)
+	(junction
+		(at 165.1 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc003448-158d-4048-b38b-a5c85b024668")
+	)
+	(junction
+		(at 175.26 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "304076a8-0719-49c0-890a-0051b03d8405")
+	)
+	(label "CMP_IN_P"
+		(at 175.26 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b9472b90-4c13-4185-8fd3-62383a66b4a1")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 171.45 100.33 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1a1f2bab-f93a-468e-86b6-6a18d99e88c5")
+		(property "Reference" "R16"
+			(at 171.45 100.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1 kΩ"
+			(at 171.45 98.298 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 171.45 98.552 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 171.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 171.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 171.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1001T5E"
+			(at 171.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C21190"
+			(at 171.45 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2567970f-5c10-4364-8e96-f4b5ac6d549d")
+		)
+		(pin "2"
+			(uuid "67120101-bdc9-4066-a9d5-04b078c506df")
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 181.61 109.22 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "96ecf169-23d4-4f71-bd23-4320423fb0d1")
+		(property "Reference" "R17"
+			(at 181.61 111.76 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470 kΩ"
+			(at 181.61 113.538 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 181.61 107.442 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF4703TCE"
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25790"
+			(at 181.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9cf8743e-fe48-4b62-b680-7a8014b0c031")
+		)
+		(pin "2"
+			(uuid "9ae6c460-aab2-4414-915c-a9204053d478")
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 144.78 100.33) (xy 144.78 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4b617d-63a6-4582-8e47-fc39d78cb639")
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 144.78 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "20366670-7a56-4737-8cff-c20ca0793160")
+		(property "Reference" "TP1"
+			(at 146.05 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TIA_OUT"
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 144.78 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 144.78 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "02441124-8f56-49fa-bc87-0e12fff6f7ab")
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 165.1 81.28) (xy 165.1 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49390e95-4374-4529-ba87-782ea8a7dd50")
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 165.1 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "715680d5-8d6e-44aa-82f4-53726a8e239f")
+		(property "Reference" "TP2"
+			(at 163.83 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "COMP_THRESHOLD"
+			(at 167.64 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 165.1 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 165.1 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "79bbca42-b29b-41d6-b0d7-7e3ade03f014")
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 187.96 109.22) (xy 187.96 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b897ba4-77c9-44aa-bc24-bdbd605d73db")
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 187.96 111.76 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "207ccb92-d835-4b2d-857e-a1118ab47098")
+		(property "Reference" "TP3"
+			(at 190.5 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RX_DATA_DIG"
+			(at 190.5 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 187.96 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 187.96 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8ae7da0-3857-415a-ae9e-ce9741160659")
+		)
+		(instances
+			(project "fsoc-rx"
+				(path "/84f983f4-ce6f-4382-bffe-129758307136/dc9b08a1-9ab8-4ff8-8f0e-d76c02b41618"
+					(reference "TP3")
 					(unit 1)
 				)
 			)

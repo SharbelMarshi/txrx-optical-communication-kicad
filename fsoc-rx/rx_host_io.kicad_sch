@@ -905,7 +905,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 116.84 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -916,7 +916,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "0603WAF4701T5E"
+			(at 116.84 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23162"
 			(at 116.84 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1037,7 +1048,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 171.45 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -1048,7 +1059,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "61300211121"
+			(at 171.45 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C2915055"
 			(at 171.45 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -1163,7 +1185,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 129.54 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1174,7 +1196,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "0603WAF4701T5E"
+			(at 129.54 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23162"
 			(at 129.54 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1295,7 +1328,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 171.45 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1306,7 +1339,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "61300311121"
+			(at 171.45 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C2915006"
 			(at 171.45 92.71 0)
 			(hide yes)
 			(show_name no)

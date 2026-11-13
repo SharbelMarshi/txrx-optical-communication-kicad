@@ -3772,8 +3772,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 102.87 82.55 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 102.87 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3783,8 +3783,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 102.87 82.55 90)
+		(property "MPN" "0603WAF5101T5E"
+			(at 102.87 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23186"
+			(at 102.87 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3874,7 +3885,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "GCT"
+		(property "Manufacturer" "HH"
 			(at 83.82 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3885,7 +3896,7 @@
 				)
 			)
 		)
-		(property "MPN" "USB4105-GF-A"
+		(property "MPN" "HH 16P TYPE-C (Y495)"
 			(at 83.82 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3918,18 +3929,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 83.82 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "JLCPCB Part" "C52209111"
 			(at 83.82 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4321,7 +4321,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 223.52 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4332,7 +4332,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "AP2112K-3.3TRG1"
+			(at 223.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C51118"
 			(at 223.52 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4556,18 +4567,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 224.79 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "JLCPCB Part" "C2862740"
 			(at 224.79 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4845,8 +4845,8 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 102.87 85.09 90)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 102.87 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4856,8 +4856,19 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 102.87 85.09 90)
+		(property "MPN" "0603WAF5101T5E"
+			(at 102.87 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23186"
+			(at 102.87 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4971,7 +4982,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 236.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4982,7 +4993,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 236.22 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
 			(at 236.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5252,7 +5274,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 210.82 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5263,7 +5285,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 210.82 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
 			(at 210.82 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5378,7 +5411,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 236.22 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -5389,7 +5422,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 236.22 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
 			(at 236.22 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -5438,7 +5482,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "B8B-PH-K-S"
+		(property "Value" "Conn_01x08"
 			(at 179.07 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5471,7 +5515,7 @@
 				)
 			)
 		)
-		(property "Description" "8-position JST PH series vertical through-hole wire-to-board header, 2.00 mm pitch"
+		(property "Description" "8-pin 2.54 mm vertical through-hole pin header (host I/O)"
 			(at 176.53 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5482,7 +5526,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "JST"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 176.53 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5493,7 +5537,7 @@
 				)
 			)
 		)
-		(property "MPN" "B8B-PH-K-S"
+		(property "MPN" "61300811121"
 			(at 176.53 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5526,18 +5570,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 176.53 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "JLCPCB Part" "C6400764"
 			(at 176.53 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5670,7 +5703,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 208.28 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5681,7 +5714,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 208.28 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
 			(at 208.28 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5893,28 +5937,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 152.4 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 152.4 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "3"
 			(uuid "bd23ebe6-15aa-48eb-a1c2-8274d2c538a3")
 		)
@@ -6103,7 +6125,7 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 121.92 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -6114,7 +6136,18 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_VREG_LX" ""
+		(property "MPN" "USBLC6-2SC6"
+			(at 121.92 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C7519"
 			(at 121.92 90.17 0)
 			(hide yes)
 			(show_name no)

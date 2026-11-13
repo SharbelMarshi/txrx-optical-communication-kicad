@@ -3204,6 +3204,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 101.6 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF5101T5E"
+			(at 101.6 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23186"
+			(at 101.6 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b89b1684-a132-49b3-9c8d-c67271fecc71")
 		)
@@ -3353,6 +3386,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 196.85 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 196.85 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 196.85 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
 			(at 196.85 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -4016,6 +4082,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 101.6 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF5101T5E"
+			(at 101.6 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C23186"
+			(at 101.6 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9205f6ba-622c-4b2d-87e6-8060360c9188")
 		)
@@ -4210,7 +4309,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "B8B-PH-K-S"
+		(property "Value" "Conn_01x08"
 			(at 177.8 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4243,7 +4342,7 @@
 				)
 			)
 		)
-		(property "Description" "8-position JST PH series vertical through-hole wire-to-board header, 2.00 mm pitch"
+		(property "Description" "8-pin 2.54 mm vertical through-hole pin header (host I/O)"
 			(at 175.26 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4254,7 +4353,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "JST"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 175.26 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4265,7 +4364,18 @@
 				)
 			)
 		)
-		(property "MPN" "B8B-PH-K-S"
+		(property "MPN" "61300811121"
+			(at 175.26 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C6400764"
 			(at 175.26 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4366,6 +4476,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 222.25 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 222.25 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 222.25 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
 			(at 222.25 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -4534,7 +4677,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "GCT"
+		(property "Manufacturer" "HH"
 			(at 82.55 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -4545,7 +4688,18 @@
 				)
 			)
 		)
-		(property "MPN" "USB4105-GF-A"
+		(property "MPN" "HH 16P TYPE-C (Y495)"
+			(at 82.55 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C52209111"
 			(at 82.55 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -4686,6 +4840,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 120.65 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "USBLC6-2SC6"
+			(at 120.65 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C7519"
+			(at 120.65 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "65a11468-475b-4f0c-9181-b0e0be0b8731")
 		)
@@ -4768,6 +4955,39 @@
 			)
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
+			(at 209.55 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 209.55 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AP2112K-3.3TRG1"
+			(at 209.55 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C51118"
 			(at 209.55 69.85 0)
 			(hide yes)
 			(show_name no)

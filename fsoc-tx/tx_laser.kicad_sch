@@ -5,6 +5,129 @@
 	(uuid "3d3343f0-78d2-44e9-9c0c-daf2d76dbc3d")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "74xGxx:74AHCT1G125"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2210,6 +2333,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "YAGEO"
+			(at 83.82 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
+			(at 83.82 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C14663"
+			(at 83.82 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e342ff2f-4fc2-460c-b8b6-d8c25ba185f4")
 		)
@@ -2359,6 +2515,39 @@
 		)
 		(property "Description" "1.6V to 5.5 V, 1.5 A, 90-mΩ Self-Protected Load Switch with Controlled Rise Time, SC-70-6"
 			(at 160.02 118.872 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 160.02 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TPS22919DCKR"
+			(at 160.02 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C2149796"
+			(at 160.02 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2559,6 +2748,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 92.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 92.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 92.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25804"
 			(at 92.71 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -2797,6 +3019,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 69.85 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1003T5E"
+			(at 69.85 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25803"
 			(at 69.85 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3123,6 +3378,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 146.05 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1003T5E"
+			(at 146.05 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25803"
+			(at 146.05 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4315e237-6d35-43e6-acab-c4c064fe08ca")
 		)
@@ -3195,6 +3483,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 105.41 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 105.41 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 105.41 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C25804"
 			(at 105.41 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3330,7 +3651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "fsoc_footprints:ES22MCBE"
+		(property "Footprint" "fsoc_footprints:SW_CK_JS202011CQN_as_DPST"
 			(at 115.57 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -3352,7 +3673,40 @@
 				)
 			)
 		)
-		(property "Description" "Double Pole Single Throw (DPST) Switch"
+		(property "Description" "C&K JS202011CQN DPDT slide switch wired as DPST (laser ARM switch)"
+			(at 115.57 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 115.57 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "JS202011CQN"
+			(at 115.57 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C221663"
 			(at 115.57 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -3449,6 +3803,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 92.71 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SN74AHCT1G125DBVR"
+			(at 92.71 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C7484"
+			(at 92.71 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "19aa2974-f0c7-43a3-a231-17332ebe530f")
 		)
@@ -3496,7 +3883,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "B3B-PH-K-S"
+		(property "Value" "Conn_01x03"
 			(at 227.33 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3529,7 +3916,7 @@
 				)
 			)
 		)
-		(property "Description" "3-position JST PH series vertical through-hole wire-to-board header, 2.00 mm pitch"
+		(property "Description" "3-pin 2.54 mm vertical through-hole pin header (laser module)"
 			(at 224.79 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3540,7 +3927,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "JST"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 224.79 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3551,7 +3938,18 @@
 				)
 			)
 		)
-		(property "MPN" "B3B-PH-K-S"
+		(property "MPN" "61300311121"
+			(at 224.79 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C2915006"
 			(at 224.79 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3647,6 +4045,39 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 142.24 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 142.24 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C28323"
+			(at 142.24 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8441213f-f487-4d0c-b841-5783c7dffef3")
 		)
@@ -3657,6 +4088,95 @@
 			(project "fsoc-tx"
 				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/f34fc6f9-8578-4c51-b563-9197629d870c"
 					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 69.85 99.06) (xy 69.85 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "288edd3b-9b93-411c-b8f4-12a8a5237bb4")
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 69.85 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "4438ab2a-75f1-4203-a82c-11fe210d6c9f")
+		(property "Reference" "TP1"
+			(at 67.31 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LASER_DATA_3V3"
+			(at 67.31 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 69.85 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 69.85 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "849dc523-71df-444e-97df-981410572deb")
+		)
+		(instances
+			(project "fsoc-tx"
+				(path "/d92cb11a-a3ee-43a3-bd30-881774176ced/f34fc6f9-8578-4c51-b563-9197629d870c"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
