@@ -506,111 +506,7 @@
     "netclass_patterns": [
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-QSPI_SD3-Pad55)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(J1-CC2)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO10-Pad14)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO28{slash}ADC2-Pad42)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(R4-Pad1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/HOST_READY"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U4-USB_DP)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J1-SBU1-PadA8)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-QSPI_SCLK-Pad56)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO14-Pad18)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-QSPI_SD1-Pad59)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(Y2-NC-Pad7)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO17-Pad28)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO22-Pad34)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(Y2-A0{slash}NC-Pad5)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO25-Pad37)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_DATA_DIG"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_MCU_CLOCK/SWDIO"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_POWER_USB/PWR_LED_A"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_MCU_CLOCK/RUN_N"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(C6-Pad1)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/HOST_UART_RX"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO16-Pad27)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/HOST_I2C_SCL"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO11-Pad15)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U4-VREG_AVDD)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/HOST_I2C_SDA"
+        "pattern": "Board_0-/RX_OPTICAL_AFE/COMP_THRESHOLD"
       },
       {
         "netclass": "Board_0-Default",
@@ -618,47 +514,15 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-/TIA_OUT"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-QSPI_SD0-Pad57)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/PPS_OUT"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/UART_DEBUG_TX"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J3-SWO{slash}TDO-Pad6)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO19-Pad31)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO5-Pad8)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO23-Pad35)"
-      },
-      {
-        "netclass": "Board_0-Default",
         "pattern": "Board_0-Net-(U4-~{QSPI_SS})"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_MCU_CLOCK/SWCLK"
+        "pattern": "Board_0-unconnected-(Y2-A0{slash}NC-Pad5)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U3-N{slash}C-Pad4)"
+        "pattern": "Board_0-/HOST_UART_RX"
       },
       {
         "netclass": "Board_0-Default",
@@ -670,59 +534,43 @@
       },
       {
         "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(Y2-NC-Pad7)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U4-USB_DP)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO15-Pad19)"
+      },
+      {
+        "netclass": "Board_0-Default",
         "pattern": "Board_0-Net-(J1-CC1)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U4-XIN)"
+        "pattern": "Board_0-unconnected-(U4-QSPI_SD1-Pad59)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(Y2-OE{slash}NC-Pad1)"
+        "pattern": "Board_0-Net-(U4-VREG_AVDD)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO13-Pad17)"
+        "pattern": "Board_0-unconnected-(J3-KEY-Pad7)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(Y2-NC-Pad3)"
+        "pattern": "Board_0-unconnected-(U4-GPIO5-Pad8)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO20-Pad32)"
+        "pattern": "Board_0-/RX_POWER_USB/PWR_LED_A"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U2-NC-Pad4)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-QSPI_SD2-Pad58)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J3-NC{slash}TDI-Pad8)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_MCU_CLOCK/REF_10M_SRC"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO21-Pad33)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J1-SBU2-PadB8)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-Net-(U4-USB_DM)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_LEVEL_MON"
+        "pattern": "Board_0-unconnected-(U4-GPIO16-Pad27)"
       },
       {
         "netclass": "Board_0-Default",
@@ -730,7 +578,43 @@
       },
       {
         "netclass": "Board_0-Default",
+        "pattern": "Board_0-/RX_MCU_CLOCK/REF_10M_SRC"
+      },
+      {
+        "netclass": "Board_0-Default",
         "pattern": "Board_0-/HOST_UART_TX"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO22-Pad34)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(Y2-OE{slash}NC-Pad1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J3-NC{slash}TDI-Pad8)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/RX_DATA_DIG"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-QSPI_SD3-Pad55)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(R4-Pad1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO28{slash}ADC2-Pad42)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U3-N{slash}C-Pad4)"
       },
       {
         "netclass": "Board_0-Default",
@@ -742,27 +626,11 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO18-Pad29)"
+        "pattern": "Board_0-unconnected-(U4-GPIO11-Pad15)"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(Y2-NC-Pad8)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J3-KEY-Pad7)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-/RX_OPTICAL_AFE/COMP_THRESHOLD"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO15-Pad19)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(U4-GPIO24-Pad36)"
+        "pattern": "Board_0-unconnected-(U4-GPIO20-Pad32)"
       },
       {
         "netclass": "Board_0-Default",
@@ -770,11 +638,143 @@
       },
       {
         "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO18-Pad29)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO21-Pad33)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO24-Pad36)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/RX_MCU_CLOCK/SWCLK"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/RX_LEVEL_MON"
+      },
+      {
+        "netclass": "Board_0-Default",
         "pattern": "Board_0-/RX_OPTICAL_AFE/PD_SUM_NODE"
       },
       {
         "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-NC-Pad4)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(C6-Pad1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/PPS_OUT"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/HOST_READY"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/UART_DEBUG_TX"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO10-Pad14)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO13-Pad17)"
+      },
+      {
+        "netclass": "Board_0-Default",
         "pattern": "Board_0-/RX_MCU_CLOCK/REF_10M"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/RX_MCU_CLOCK/SWDIO"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/HOST_I2C_SCL"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO23-Pad35)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-QSPI_SCLK-Pad56)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(Y2-NC-Pad8)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/RX_MCU_CLOCK/RUN_N"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-QSPI_SD2-Pad58)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(Y2-NC-Pad3)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/HOST_I2C_SDA"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO19-Pad31)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U4-XIN)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO17-Pad28)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/TIA_OUT"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J1-SBU2-PadB8)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J1-CC2)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO14-Pad18)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J1-SBU1-PadA8)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J3-SWO{slash}TDO-Pad6)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-QSPI_SD0-Pad57)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U4-GPIO25-Pad37)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U4-USB_DM)"
       },
       {
         "netclass": "Board_0-USB",
@@ -822,27 +822,19 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_MCU_CLOCK/RUN_N"
+        "pattern": "Board_1-/UART_DEBUG_RX"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO23-Pad35)"
+        "pattern": "Board_1-Net-(U4-USB_DP)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-QSPI_SD3-Pad55)"
+        "pattern": "Board_1-unconnected-(J1-SBU1-PadA8)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO13-Pad17)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U4-VREG_AVDD)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO19-Pad31)"
+        "pattern": "Board_1-Net-(U4-~{QSPI_SS})"
       },
       {
         "netclass": "Board_1-Default",
@@ -850,7 +842,11 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_MCU_CLOCK/REF_10M"
+        "pattern": "Board_1-unconnected-(U4-GPIO25-Pad37)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO24-Pad36)"
       },
       {
         "netclass": "Board_1-Default",
@@ -858,23 +854,27 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-QSPI_SD1-Pad59)"
+        "pattern": "Board_1-/HOST_UART_RX"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO15-Pad19)"
+        "pattern": "Board_1-/RX_LEVEL_MON"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-QSPI_SCLK-Pad56)"
+        "pattern": "Board_1-/RX_OPTICAL_AFE/VBIAS_1V65"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/UART_DEBUG_RX"
+        "pattern": "Board_1-/RX_MCU_CLOCK/RUN_N"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/HOST_UART_TX"
+        "pattern": "Board_1-/RX_MCU_CLOCK/SWCLK"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J3-NC{slash}TDI-Pad8)"
       },
       {
         "netclass": "Board_1-Default",
@@ -882,19 +882,47 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J1-SBU2-PadB8)"
+        "pattern": "Board_1-unconnected-(U4-GPIO14-Pad18)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO11-Pad15)"
+        "pattern": "Board_1-/HOST_UART_TX"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO25-Pad37)"
+        "pattern": "Board_1-unconnected-(Y2-OE{slash}NC-Pad1)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-/HOST_UART_RX"
+        "pattern": "Board_1-/RX_DATA_DIG"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U4-USB_DM)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/UART_DEBUG_TX"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/RX_OPTICAL_AFE/COMP_THRESHOLD"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO21-Pad33)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/TIA_OUT"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO18-Pad29)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO27{slash}ADC1-Pad41)"
       },
       {
         "netclass": "Board_1-Default",
@@ -902,7 +930,27 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J1-CC1)"
+        "pattern": "Board_1-unconnected-(U4-GPIO11-Pad15)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO17-Pad28)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-QSPI_SD3-Pad55)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(Y2-NC-Pad8)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J1-SBU2-PadB8)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(Y2-NC-Pad7)"
       },
       {
         "netclass": "Board_1-Default",
@@ -910,7 +958,123 @@
       },
       {
         "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO20-Pad32)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U4-XOUT)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO13-Pad17)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/RX_OPTICAL_AFE/CMP_IN_P"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO10-Pad14)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO29{slash}ADC3-Pad43)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U4-XIN)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/HOST_I2C_SCL"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J1-CC1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J3-KEY-Pad7)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO23-Pad35)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO22-Pad34)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/PPS_OUT"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-QSPI_SD1-Pad59)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(Y2-A0{slash}NC-Pad5)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(R4-Pad1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO19-Pad31)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-QSPI_SCLK-Pad56)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U4-VREG_AVDD)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J1-CC2)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO15-Pad19)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/RX_POWER_USB/PWR_LED_A"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/RX_MCU_CLOCK/REF_10M_SRC"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/RX_OPTICAL_AFE/PD_SUM_NODE"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-NC-Pad4)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-QSPI_SD2-Pad58)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/RX_MCU_CLOCK/REF_10M"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U3-N{slash}C-Pad4)"
+      },
+      {
+        "netclass": "Board_1-Default",
         "pattern": "Board_1-unconnected-(Y2-NC-Pad3)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U4-GPIO16-Pad27)"
       },
       {
         "netclass": "Board_1-Default",
@@ -922,175 +1086,11 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U4-XOUT)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_DATA_DIG"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO18-Pad29)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/HOST_I2C_SCL"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J3-KEY-Pad7)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J3-NC{slash}TDI-Pad8)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-QSPI_SD2-Pad58)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_OPTICAL_AFE/CMP_IN_P"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/TIA_OUT"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO16-Pad27)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(J1-CC2)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO17-Pad28)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO29{slash}ADC3-Pad43)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U2-NC-Pad4)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_LEVEL_MON"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_OPTICAL_AFE/COMP_THRESHOLD"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U4-~{QSPI_SS})"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO24-Pad36)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO21-Pad33)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(Y2-NC-Pad8)"
-      },
-      {
-        "netclass": "Board_1-Default",
         "pattern": "Board_1-Net-(U4-VREG_LX)"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(R4-Pad1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO27{slash}ADC1-Pad41)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/UART_DEBUG_TX"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U3-N{slash}C-Pad4)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO14-Pad18)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U4-XIN)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO22-Pad34)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_OPTICAL_AFE/PD_SUM_NODE"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_OPTICAL_AFE/VBIAS_1V65"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/PPS_OUT"
-      },
-      {
-        "netclass": "Board_1-Default",
         "pattern": "Board_1-/HOST_I2C_SDA"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO20-Pad32)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U4-USB_DP)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_MCU_CLOCK/REF_10M_SRC"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(Y2-A0{slash}NC-Pad5)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(Y2-OE{slash}NC-Pad1)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J1-SBU1-PadA8)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(U4-GPIO10-Pad14)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-Net-(U4-USB_DM)"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_MCU_CLOCK/SWCLK"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-/RX_POWER_USB/PWR_LED_A"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(Y2-NC-Pad7)"
       },
       {
         "netclass": "Board_1-USB",
@@ -1138,67 +1138,7 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_POWER_USB/PWR_LED_A"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-QSPI_SD2-Pad58)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/UART_DEBUG_TX"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/HOST_I2C_SDA"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_MCU_CLOCK/REF_10M_SRC"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_OPTICAL_AFE/CMP_IN_P"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_MCU_CLOCK/RUN_N"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U4-VREG_AVDD)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J3-SWO{slash}TDO-Pad6)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO17-Pad28)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO22-Pad34)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO14-Pad18)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-QSPI_SD1-Pad59)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-QSPI_SD0-Pad57)"
-      },
-      {
-        "netclass": "Board_2-Default",
         "pattern": "Board_2-/RX_LEVEL_MON"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/TIA_OUT"
       },
       {
         "netclass": "Board_2-Default",
@@ -1206,59 +1146,7 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO28{slash}ADC2-Pad42)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U4-~{QSPI_SS})"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_MCU_CLOCK/SWCLK"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J1-CC2)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U4-XIN)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO19-Pad31)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO24-Pad36)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO29{slash}ADC3-Pad43)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(Y2-NC-Pad3)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(C6-Pad1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO10-Pad14)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO23-Pad35)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO13-Pad17)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/HOST_UART_TX"
+        "pattern": "Board_2-Net-(U4-USB_DM)"
       },
       {
         "netclass": "Board_2-Default",
@@ -1266,43 +1154,7 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(Y2-NC-Pad8)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U4-USB_DM)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_OPTICAL_AFE/PD_SUM_NODE"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO16-Pad27)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO18-Pad29)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/HOST_I2C_SCL"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_MCU_CLOCK/REF_10M"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U4-USB_DP)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U2-NC-Pad4)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO5-Pad8)"
+        "pattern": "Board_2-unconnected-(U4-GPIO10-Pad14)"
       },
       {
         "netclass": "Board_2-Default",
@@ -1310,15 +1162,143 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-QSPI_SCLK-Pad56)"
+        "pattern": "Board_2-unconnected-(U4-GPIO20-Pad32)"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(R4-Pad1)"
+        "pattern": "Board_2-/UART_DEBUG_RX"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(U4-XOUT)"
+        "pattern": "Board_2-unconnected-(J3-NC{slash}TDI-Pad8)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J1-SBU1-PadA8)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO18-Pad29)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J3-KEY-Pad7)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO15-Pad19)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-QSPI_SD1-Pad59)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/PPS_OUT"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/RX_MCU_CLOCK/SWCLK"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO19-Pad31)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/TIA_OUT"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO17-Pad28)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO13-Pad17)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U4-USB_DP)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/HOST_I2C_SCL"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO14-Pad18)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U2-NC-Pad4)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U4-XIN)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U4-~{QSPI_SS})"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/RX_OPTICAL_AFE/CMP_IN_P"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J1-CC2)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO28{slash}ADC2-Pad42)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(J3-SWO{slash}TDO-Pad6)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(J1-CC1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO21-Pad33)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U3-N{slash}C-Pad4)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(Y2-NC-Pad7)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO5-Pad8)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/HOST_I2C_SDA"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/RX_MCU_CLOCK/RUN_N"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/HOST_UART_RX"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-QSPI_SD0-Pad57)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/RX_OPTICAL_AFE/VBIAS_1V65"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-QSPI_SD3-Pad55)"
       },
       {
         "netclass": "Board_2-Default",
@@ -1326,7 +1306,79 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-QSPI_SD3-Pad55)"
+        "pattern": "Board_2-unconnected-(U4-GPIO27{slash}ADC1-Pad41)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/HOST_UART_TX"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U4-XOUT)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/HOST_READY"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/UART_DEBUG_TX"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-QSPI_SCLK-Pad56)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/RX_MCU_CLOCK/REF_10M"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(Y2-NC-Pad3)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(U4-VREG_AVDD)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO24-Pad36)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO25-Pad37)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(Y2-NC-Pad8)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-QSPI_SD2-Pad58)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(Y2-OE{slash}NC-Pad1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/RX_DATA_DIG"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-unconnected-(U4-GPIO23-Pad35)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-/RX_POWER_USB/PWR_LED_A"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(R4-Pad1)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(C6-Pad1)"
       },
       {
         "netclass": "Board_2-Default",
@@ -1338,75 +1390,23 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J1-SBU1-PadA8)"
+        "pattern": "Board_2-unconnected-(U4-GPIO16-Pad27)"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-/HOST_READY"
+        "pattern": "Board_2-/RX_MCU_CLOCK/REF_10M_SRC"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO27{slash}ADC1-Pad41)"
+        "pattern": "Board_2-/RX_OPTICAL_AFE/PD_SUM_NODE"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_DATA_DIG"
+        "pattern": "Board_2-unconnected-(U4-GPIO22-Pad34)"
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(Y2-NC-Pad7)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/RX_OPTICAL_AFE/VBIAS_1V65"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/UART_DEBUG_RX"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J3-KEY-Pad7)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(J3-NC{slash}TDI-Pad8)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO21-Pad33)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/HOST_UART_RX"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-Net-(J1-CC1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO20-Pad32)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U3-N{slash}C-Pad4)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(Y2-OE{slash}NC-Pad1)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO15-Pad19)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-unconnected-(U4-GPIO25-Pad37)"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-/PPS_OUT"
+        "pattern": "Board_2-unconnected-(U4-GPIO29{slash}ADC3-Pad43)"
       },
       {
         "netclass": "Board_2-USB",
@@ -1454,15 +1454,7 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J1-CC1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO17-Pad28)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/TIA_OUT"
+        "pattern": "Board_3-Net-(R4-Pad1)"
       },
       {
         "netclass": "Board_3-Default",
@@ -1470,11 +1462,223 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_DATA_DIG"
+        "pattern": "Board_3-/RX_OPTICAL_AFE/COMP_THRESHOLD"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J1-CC2)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J3-KEY-Pad7)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_OPTICAL_AFE/CMP_IN_P"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-QSPI_SD3-Pad55)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J1-SBU1-PadA8)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO5-Pad8)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO27{slash}ADC1-Pad41)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(Y2-OE{slash}NC-Pad1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/UART_DEBUG_TX"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO22-Pad34)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_OPTICAL_AFE/VBIAS_1V65"
       },
       {
         "netclass": "Board_3-Default",
         "pattern": "Board_3-/HOST_UART_TX"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_LEVEL_MON"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_POWER_USB/PWR_LED_A"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U4-VREG_LX)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/PPS_OUT"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J1-SBU2-PadB8)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_MCU_CLOCK/RUN_N"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U3-N{slash}C-Pad4)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-QSPI_SD2-Pad58)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_MCU_CLOCK/REF_10M_SRC"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(C6-Pad1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO24-Pad36)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U4-VREG_AVDD)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U4-USB_DP)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(Y2-NC-Pad8)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO29{slash}ADC3-Pad43)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/HOST_I2C_SDA"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-QSPI_SD0-Pad57)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-QSPI_SD1-Pad59)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/TIA_OUT"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(J1-CC1)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/HOST_I2C_SCL"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/UART_DEBUG_RX"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_MCU_CLOCK/REF_10M"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(Y2-A0{slash}NC-Pad5)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U4-XIN)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_MCU_CLOCK/SWDIO"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO25-Pad37)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_MCU_CLOCK/SWCLK"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J3-SWO{slash}TDO-Pad6)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO18-Pad29)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-/RX_DATA_DIG"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO10-Pad14)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U4-~{QSPI_SS})"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO21-Pad33)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U4-USB_DM)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-QSPI_SCLK-Pad56)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(J3-NC{slash}TDI-Pad8)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO15-Pad19)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO23-Pad35)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO20-Pad32)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO14-Pad18)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(Y2-NC-Pad3)"
       },
       {
         "netclass": "Board_3-Default",
@@ -1486,167 +1690,7 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U4-USB_DP)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-QSPI_SD0-Pad57)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_MCU_CLOCK/RUN_N"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J3-SWO{slash}TDO-Pad6)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO10-Pad14)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U4-VREG_LX)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J3-NC{slash}TDI-Pad8)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(Y2-A0{slash}NC-Pad5)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(R4-Pad1)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U4-USB_DM)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U4-XOUT)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_LEVEL_MON"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J1-SBU1-PadA8)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO20-Pad32)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-QSPI_SD3-Pad55)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/HOST_I2C_SDA"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_POWER_USB/PWR_LED_A"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U4-XIN)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/HOST_I2C_SCL"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO27{slash}ADC1-Pad41)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO5-Pad8)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO24-Pad36)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/PPS_OUT"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_OPTICAL_AFE/VBIAS_1V65"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO13-Pad17)"
-      },
-      {
-        "netclass": "Board_3-Default",
         "pattern": "Board_3-unconnected-(U4-GPIO19-Pad31)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO21-Pad33)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U3-N{slash}C-Pad4)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_MCU_CLOCK/SWDIO"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(J1-CC2)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO16-Pad27)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/UART_DEBUG_TX"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U2-NC-Pad4)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO18-Pad29)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO29{slash}ADC3-Pad43)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-QSPI_SD2-Pad58)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_MCU_CLOCK/REF_10M"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(Y2-NC-Pad3)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/HOST_READY"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-QSPI_SCLK-Pad56)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(Y2-OE{slash}NC-Pad1)"
       },
       {
         "netclass": "Board_3-Default",
@@ -1654,75 +1698,31 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U4-VREG_AVDD)"
+        "pattern": "Board_3-/HOST_READY"
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO15-Pad19)"
+        "pattern": "Board_3-unconnected-(U2-NC-Pad4)"
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_OPTICAL_AFE/CMP_IN_P"
+        "pattern": "Board_3-unconnected-(U4-GPIO13-Pad17)"
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(C6-Pad1)"
+        "pattern": "Board_3-unconnected-(U4-GPIO16-Pad27)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-unconnected-(U4-GPIO17-Pad28)"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-Net-(U4-XOUT)"
       },
       {
         "netclass": "Board_3-Default",
         "pattern": "Board_3-/RX_OPTICAL_AFE/PD_SUM_NODE"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J3-KEY-Pad7)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO25-Pad37)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_OPTICAL_AFE/COMP_THRESHOLD"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(J1-SBU2-PadB8)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/UART_DEBUG_RX"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-Net-(U4-~{QSPI_SS})"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_MCU_CLOCK/REF_10M_SRC"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO23-Pad35)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO22-Pad34)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(Y2-NC-Pad8)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-QSPI_SD1-Pad59)"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-/RX_MCU_CLOCK/SWCLK"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-unconnected-(U4-GPIO14-Pad18)"
       },
       {
         "netclass": "Board_3-USB",

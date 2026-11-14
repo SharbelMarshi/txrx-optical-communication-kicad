@@ -11,7 +11,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -201,7 +201,7 @@
 	(pad "SH" thru_hole oval
 		(at -4.32 1.14)
 		(size 1 2.1)
-		(drill oval 0.6 1.7)
+		(drill oval 0.65 1.7)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "0a90828e-7487-4a1c-9a92-c882dd96d1fe")
@@ -209,7 +209,7 @@
 	(pad "SH" thru_hole oval
 		(at -4.32 5.29)
 		(size 1 1.8)
-		(drill oval 0.6 1.4)
+		(drill oval 0.65 1.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "2b03af89-d278-4c99-9fc5-aa7124cf4520")
@@ -217,7 +217,7 @@
 	(pad "SH" thru_hole oval
 		(at 4.32 1.14)
 		(size 1 2.1)
-		(drill oval 0.6 1.7)
+		(drill oval 0.65 1.7)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "4d1c5132-e02b-42e4-a17f-a92cd68781ce")
@@ -225,7 +225,7 @@
 	(pad "SH" thru_hole oval
 		(at 4.32 5.29)
 		(size 1 1.8)
-		(drill oval 0.6 1.4)
+		(drill oval 0.65 1.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "e4417463-a1dd-4523-8dc5-565f6fdf5974")

@@ -49,7 +49,10 @@ Two separate $4$ layer boards:
 - **Decoupling:** two extra 100 nF 0402 capacitors on RX (C30 at IOVDD pin 45, C31 at VREG_VIN pin 49). The RP2354A core-supply (DVDD) decoupling still needs a manual fan-out rework, since there is no room near those pins without rerouting.
 - **Test points:** RX TP1 = TIA_OUT, TP2 = COMP_THRESHOLD (bottom side), TP3 = RX_DATA_DIG; TX TP1 = LASER_DATA_3V3. Laser power/data and GND are also on the TX J4 header pins.
 - **Silkscreen:** bottom-side pin names for J2, JP1 (USB / HOST), J4, J5/J6, test points, and board name/revision. SW3 is marked **ARM** (slider toward the top end, pin 1) and **SAFE**, per the C&K JS circuit diagram; confirm with a meter before first laser use.
-- **Panelization:** copper-to-edge clearance raised to 0.4 mm for V-scoring. TX and RX each have a 2×2 V-scored panel with rails, tooling holes and fiducials in `Manufacturing/TX/panel` and `Manufacturing/RX/panel`.
+- **Panelization:** copper-to-edge clearance raised to 0.4 mm for V-scoring. The RX outline was widened by 2.5 mm on the left (header side, no copper), so both boards are 52.09 × 40.0 mm and V-score lines line up. Panel options (all 2×2, V-scored, 5 mm rails with tooling holes and fiducials):
+  - `Manufacturing/TXRX_1x2_panel`: one row, TX left and RX right (about 104.2 × 50.0 mm). One panel gives one TX/RX pair.
+  - `Manufacturing/TXRX_panel`: mixed panel, top row 2× TX and bottom row 2× RX (about 104.2 × 90.0 mm). One panel gives two TX/RX pairs.
+  - `Manufacturing/TX/panel` and `Manufacturing/RX/panel`: single-design panels, 4 boards each.
 - **Manufacturing:** JLCPCB-format BOM and CPL files (single board and panel) are in `Manufacturing/TX` and `Manufacturing/RX`. The SiT5346 is sourced and fitted separately, so it is left out of those files.
 - **Optical (not on the PCB):** fit a 650 nm band-pass (or red) filter and a short black tube over the BPW34 to reject ambient light.
 
