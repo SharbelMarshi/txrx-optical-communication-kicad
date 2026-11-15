@@ -13356,7 +13356,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.samtec.com/products/tsw-103-07-g-s"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300311121.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13390,7 +13390,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samtec"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13403,12 +13403,25 @@
 				)
 			)
 		)
-		(property "MPN" "TSW-103-07-G-S"
+		(property "MPN" "61300311121"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "afa444b5-c687-4653-b23b-2bf5253bbb69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C2915006"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a53271b-3b1c-472d-8405-dfc748678077")
 			(effects
 				(font
 					(size 1 1)
@@ -13426,7 +13439,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 6.46)

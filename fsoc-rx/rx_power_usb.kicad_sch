@@ -6202,7 +6202,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6238,7 +6238,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.samtec.com/products/tsw-103-07-g-s"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300311121.pdf"
 			(at 152.4 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -6260,7 +6260,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samtec"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 152.4 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -6271,7 +6271,18 @@
 				)
 			)
 		)
-		(property "MPN" "TSW-103-07-G-S"
+		(property "MPN" "61300311121"
+			(at 152.4 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part" "C2915006"
 			(at 152.4 77.47 0)
 			(hide yes)
 			(show_name no)

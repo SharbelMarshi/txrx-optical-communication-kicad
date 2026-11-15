@@ -15142,7 +15142,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.samtec.com/products/tsw-103-07-g-s"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300311121.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15176,7 +15176,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samtec"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15189,7 +15189,7 @@
 				)
 			)
 		)
-		(property "MPN" "TSW-103-07-G-S"
+		(property "MPN" "61300311121"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15228,6 +15228,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part" "C2915006"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d276d8d-000f-4537-b477-f31f95982723")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/e570b0c0-cac5-4a7f-a320-8fd087761133/f21db181-3a60-4afa-89bd-a4fafbc34712")
 		(sheetname "/RX_POWER_USB/")
@@ -15238,7 +15251,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 6.46)
